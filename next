@@ -21,12 +21,6 @@ http://live.dakwahsunnah.com/;stream.mp3
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FYGxggv/rcti.jpg" group-title="NATIONAL",RCTI+ CB
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-
 ===================================MNCTV===============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wM9nDrk/mnctv.jpg" group-title="NATIONAL",02. MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -174,7 +168,14 @@ https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c68582449a2e01825972ddc
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="" tvg-logo="https://i.ibb.co/GVBL3s9/okey.png" group-title="NATIONAL", OKEY 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 ======================================VIVA============================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7tFY7tC/rtbaneka.png" group-title="NATIONAL", RTB ANEKA 🇧🇳
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cgQ39qT/rtbgolive.png" group-title="NATIONAL", RTB GOLIVE 🇧🇳
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="NATIONAL", RTB SUKMAINDERA 🇧🇳
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 ======================================SERIES ZONE============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2F1mybN/SERIES-ZONE.jpg" group-title="NATIONAL", SERIES ZONE
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -182,12 +183,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c685840ff04901845606fc274367/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jGgd4vB/selangortv.png" group-title="NATIONAL", SELANGOR TV 🇲🇾
-https://skyios.sky4k.top/S1G_010/playlist.m3u8
 
-=========================================KILAT TV=========================================
+=========================================Channel Suria=========================================
+#EXTINF:-1 group-title="NATIONAL" tvg-id="Suria HD"  tvg-logo="https://i.ibb.co/KLfmfq7/msuria.png",Channel Suria 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWhmx1g/palestinechlive.png" group-title="NATIONAL", Palestine Channel Live 🇵🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnBZPBL/voiceofpalestine.png" group-title="NATIONAL", Voice Of Palestine 🇵🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 
 ----------------------------------------------------------------------------------------------
 --------------------------------------------------NEWS----------------------------------------
@@ -300,6 +310,13 @@ http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GogbTzF_ToPwtx3DeWrCO7HrlUk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg"  group-title="NEWS",elsinta tv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
+#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-name="" tvg-logo="https://i.ibb.co/jR80sw4/seatoday.png" group-title="NEWS", SEA TODAY 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jGgd4vB/selangortv.png" group-title="NEWS", SELANGOR TV 🇲🇾
 https://skyios.sky4k.top/S1G_010/playlist.m3u8
 
@@ -320,6 +337,12 @@ https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/yBGWVMp/Berita-RTM.png", Berita RTM 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="NEWS", PARLIMEN RAKYAT 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="NEWS", PARLIMEN NEGARA 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 <=========================================== TVRI Group =========================================>
 
 #EXTM3U
@@ -484,6 +507,27 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
 
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://i.ibb.co/1zFVnXg/makkahlive.png" group-title="Reliji", MAKKAH LIVE 🕋 ☪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
+https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3zB0gVk/madinahlive.png" group-title="Reliji", MADINAH LIVE ☪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
+https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://i.ibb.co/1zFVnXg/makkahlive.png" group-title="Reliji", MAKKAH LIVE 🕋 ☪
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3zB0gVk/madinahlive.png" group-title="Reliji", MADINAH LIVE ☪
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
 
 #########------ Murottal Alqur'an 30 juz------########
 
@@ -944,8 +988,12 @@ https://archive.org/download/MurotalMR/114.mp3
 
 MOVIE
 --------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/7tnVGwj/bioskopindonesia.png" group-title="MOVIES",Bioskop Indonesia
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="Bioskop Indonesia" tvg-logo="https://i.ibb.co/Yf7XNzn/bioskopid.png", BIOSKOP INDONESIA 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/j3vJT5m/flik.png" group-title="MOVIES",Flik
 http://103.113.116.150:25461/mtm1/12345/22
@@ -1744,6 +1792,10 @@ https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c685840ff04901845601ffc
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n62skw1/rtvsport.png group-title="SPORT LOKAL" tvg-name="San Marino RTV", RTV SAN MARINO SPORT 🇸🇲
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
+
+
 ==================================================================================
 
 ********************* ASTRO HT 2
@@ -1766,11 +1818,26 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
 
 =======================================================================================================================================================
-############################################################## 1 APRIL 2024 ####################################################################
+############################################################## 4 APRIL 2024 ####################################################################
 =======================================================================================================================================================
+
+England - Premier League
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=abe99p1h37cp2ugn5wxocl9p7_image-header_pEs_1709728101000&quality=70" group-title="4 APRIL 2024", 01:30 - EPL - Liverpool vs Sheffield United
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=x6n7mdglxn4c10tbpcakye08d_image-header_pRow_1704389650000&quality=70" group-title="4 APRIL 2024", 02:15 - EPL - Chelsea vs Manchester United
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
 Spain - La Liga
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6hijuyvhnrgahqk1efft5t5ko_image-header_pRow_1681756701000&quality=70" group-title="1 APRIL 2024", 2:00 - LA LIGA - Villarreal vs Atlético Madrid
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1d9s3jwarq3j310ceixs0gvc7n_image-header_pDach_1704446986000&quality=70" group-title="4 APRIL 2024", 01:00 - LA LIGA - Granada vs Valencia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1780,77 +1847,20 @@ Spain - La Liga
 https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
 
 
-Italy - Serie A
+Netherlands - Eredivisie
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19blf5wkuvf001g3xacd1il0ms_image-header_pDach_1705812346000&quality=70" group-title="1 APRIL 2024", 17:30 - SERIE A - Bologna vs Salernitana
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT3G2NZVvm5RUtNA8cqo7prSEdYWnaRJpNZAjHE31IQ&s" group-title="4 APRIL 2024", 23:45 - EREDIVISE - Volendam vs Feyenoord
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=dl58rput43t519ndz2ta9yj9x_image-header_pDach_1705812346000&quality=70" group-title="1 APRIL 2024", 20:00 - SERIE A - Cagliari vs Hellas Verona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFN_w_eXEKsNjW4u6LjVHHqvkihS9sv3EeJMSvuXJ1A&s" group-title="4 APRIL 2024", 02:00 - EREDIVISE - Ajax vs Go Ahead Eagles
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jb2swr2lzaga1oen8aldke7ns_image-header_pDach_1705811314000&quality=70" group-title="1 APRIL 2024", 20:00 - SERIE A - Sassuolo vs Udinese
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1lq0yo72mbg1g1jtb8df22m138_image-header_pDach_1705812343000&quality=70" group-title="1 APRIL 2024", 23:00 - SERIE A - Lecce vs Roma
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=h33upamagufb1dhi6e72r49nt_image-header_pDach_1705812343000&quality=70" group-title="1 APRIL 2024", 1:45 - SERIE A - Internazionale vs Empoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-
-Saudi Arabia - Pro League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=b4dd3n8726uz153ilv083hlhg_image-header_pRow_1701460763000" group-title="1 APRIL 2024", 2:00 - RSL - Al Ahli vs Al Ittihad
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUsfIgqv0QxbrmWB8UNfriesp_ISDEARP6c9vVbk4bA&s" group-title="1 APRIL 2024", 2:00 - RSL - Al Raed vs Al Khaleej
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFXcjui7rUjTx69LyQjdtLUufZYsgBDhCcbiIPUiQzQ&s" group-title="1 APRIL 2024", 2:00 - RSL - Al Hazm vs Dhamk
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
 ####################################################################### SPORTS ########################################################################
 
