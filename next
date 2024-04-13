@@ -35,7 +35,7 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 group-title="NATIONAL" group-logo="https://hometv.pw/logo/lokal2/trans7.png" tvg-logo="https://i.ibb.co/4RRBctY/trans7.jpg", 07. TRANS 7🇮🇩
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="NATIONAL",07. TRANS 7🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -794,6 +794,259 @@ http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png " group-title="DAERAH",PONTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="DAERAH",Kawanua TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="DAERAH",Natuna TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="DAERAH",PJTV Bandung
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Jambi_TV_2019.png" group-title="DAERAH",Jambi TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+
+
+
+
+===================================Channel IndiTV=======================================================================
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",NBA
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",TVN Movies
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",TVN
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",IMC
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Galaxy Premium
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Galaxy
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Bioskop Indo
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Calestial Movie
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",CinemaWorld
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Davinci
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",DreamWorks
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Lingua
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",CrimeINV
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+ 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Maxstream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Discovery Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",HitsNow
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Animal PLanet
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Love Nature
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Curiosity
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",MUITV
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Musik Indo
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Seru
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Bein 1
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Bein 3
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Fight Sports
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",MyCinema
+https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",CNN Inter
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",TVN
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",KBS World
+https://cdn08jtedge.indihometv.com/dassdvr/133/kbsworld_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Citra Drama
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",History
+https://cdn08jtedge.indihometv.com/dassdvr/133/history_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",KIX
+https://cdn08jtedge.indihometv.com/dassdvr/133/kix_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Lifetime
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Kungfu
+https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",SGEM
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Moji
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel720/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Zhejiang
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Davinci
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci720/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",TechStorm
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Crime INV
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation_dash/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Panda TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",Eat&Go
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo720/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png",ANTV
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
+
 
  ##################
      ##-----KIDS-----##
@@ -2090,40 +2343,29 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 ********************* ASTRO HT 2
 
-#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png ",ASTRO SUPERSTAR
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png ",ASTRO SUPERSTAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+http://gamsgo.cyou:8080/c4596f70/c3848d92/146068
 
-#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Astro_Supersport_2_HD.png ",ASTRO SUPERSTAR2
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png ",ASTRO SUPERSTAR2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+http://gamsgo.cyou:8080/c4596f70/c3848d92/157556
 
-#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Astro_Supersport_3_HD.png ",ASTRO SUPERSPORT3
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",ASTRO SUPERSPORT3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+http://gamsgo.cyou:8080/c4596f70/c3848d92/157557
 
-#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Astro_Supersport_4_HD.png ",ASTRO SUPERSPORT4
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png ",ASTRO SUPERSPORT4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
-
+http://gamsgo.cyou:8080/c4596f70/c3848d92/157558
 
 =======================================================================================================================================================
 ############################################################## 4 APRIL 2024 ####################################################################
 =======================================================================================================================================================
-
-England - Premier League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=abe99p1h37cp2ugn5wxocl9p7_image-header_pEs_1709728101000&quality=70" group-title="4 APRIL 2024", 01:30 - EPL - Liverpool vs Sheffield United
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=x6n7mdglxn4c10tbpcakye08d_image-header_pRow_1704389650000&quality=70" group-title="4 APRIL 2024", 02:15 - EPL - Chelsea vs Manchester United
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
 
 Spain - La Liga
 
