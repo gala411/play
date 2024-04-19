@@ -706,20 +706,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>>  HBO 🇮🇩"
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title=" HBO 🇮🇩"",HBO 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11834
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title=" HBO 🇮🇩"",HBO SIGN 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11835
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title=" HBO 🇮🇩"",HBO HITS 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11836
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title=" HBO 🇮🇩"",HBO FAMILY 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11837
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title=" HBO 🇮🇩"",CINEMAX 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11838
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/warner.png" group-title="HBO 🇮🇩"",WARNER 
-http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/3279
 
 ----------------------DAERAH---------------------------------
 #EXTINF:-1 tvg-id="LINGKARTV.id" tvg-logo="https://i.ibb.co/GTXsnVq/LINGKAR-TV.png" group-title="DAERAH",LINGKAR TV
@@ -1533,26 +1519,77 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/maste
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
-'''''''''LIVE EVENT''''''''EVENT''''''''
-
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/cvRNXLX/afc-u23-01.jpg" group-title="LIVE EVENT", 20:00 Australia vs Jordania
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/pZVnjzQ/afc-u23-02.jpg" group-title="LIVE EVENT", 22:30 Qatar vs Indonesia
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 1.pt" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Chelsea-vs-Everton.png?resize=750%2C375&ssl=1" group-title="LIVE EVENT", 02:00 Chelsea vs Everton
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+=======================================================================================================================================================
+############################################################## 19 APRIL 2024 ####################################################################
+=======================================================================================================================================================
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/ycHCVM2UoNcJilJpFwoXn9MZlk6kmHJmFXI5cfnMr1EtfhKku8gcZzZpiaXfEyvi1zquky68vqA" group-title="LIVE EVENT 19 APRIL 2024", 02:00 - LA LIGA - Athletic Club vs Granada
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/VzjB0JEpGQbtL6KGB4D_WooFVkk0BtQe5IGxK8kAZKNqnowqW3HeVGDPQ6LmIGotHihV72TUJXg6=w1280-h720" group-title="LIVE EVENT 19 APRIL 2024", 23:30 - SERIE A - Genoa vs Lazio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/fTReO3XScl5-VZQNC15_Xj6DOVzLXREyawVUpBctrAJLV-sq303I_7tEbODEEVWOJTvjdGx8V6gUVQ" group-title="LIVE EVENT 19 APRIL 2024", 01:45 - SERIE A - Cagliari vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gge7YLAf8XYnWiQXqJPNndQJiVxXQfH4w1skV_ySpQ&s" group-title="LIVE EVENT 19 APRIL 2024", 01:30 - BUNDES - Eintracht Frankfurt vs Augsburg
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.ambito.com/p/df5eebdd05da5ef07e542efd384b92c1/adjuntos/239/imagenes/041/445/0041445022/1200x675/smart/portugal-primera-division-rio-ave-vs-arouca-fecha-30.png" group-title="LIVE EVENT 19 APRIL 2024", 02:15 - PRIMEIRA - Rio Ave vs Arouca
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jqcq1klo0clh1egisg3bsjn6f_image-header_pDach_1712063308000&quality=70" group-title="LIVE EVENT 19 APRIL 2024", 02:00 - LIGUE 1 - Nice vs Lorient
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+=======================================================================================================================================================
+########################################################################## AFC U-23 ##################################################################
+=======================================================================================================================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
+https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge2.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
 
 ======================================MOLA============================================
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3jPvPgW8g4at6wdouF0Bxd07d4cAm-BssQ&usqp=CAU" group-title="CHANNEL | SPORTS",MOLA 1
