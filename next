@@ -89,13 +89,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 ======================================INDOSIAR============================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3px3Ccs/indosiar.jpg" group-title="NATIONAL", INDOSIAR 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/03RHsZ8d2w0AAAAM/1996-ident.gif" group-title="NATIONAL", INDOSIAR 
 #EXTVLCOPT:http-user-agent=mozilla/89
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
-http://37.49.225.197:8080/F31068/8fd17683/162138
-#EXTINF:-1 tvg-logo="https://media.tenor.com/03RHsZ8d2w0AAAAM/1996-ident.gif" group-title="NATIONAL", INDOSIAR 
-#EXTVLCOPT:http-user-agent=mozilla/89
 http://mykingtv.net:2082/Kingtv88/88990208/5117
 ====================================SCTV==============================================
 
@@ -157,12 +154,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-======================================TV Kesehatan ============================================
+
 #EXTINF:-1 group-title="NATIONAL"tvg-id="tvkesehatan.id" tvg-logo="https://i.ibb.co/hd6CRC2/TV-Kesehatan.jpg",TV Kesehatan 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="INFO" group-title="NATIONAL" tvg-logo="https://i.ibb.co/LdzFQHR/vtv.jpg" ch-number="92",VIVA 🇸🇬
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
 ----------------------------------------------------------------------------------------------
 --------------------------------------------------NEWS----------------------------------------
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title="NEWS", TVRI
