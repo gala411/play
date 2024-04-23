@@ -148,6 +148,37 @@ https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c685840ff04901845601ffc
 https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 ==================================================================================
+=======================================================================================================================================================
+########################################################################## AFC U-23 ##################################################################
+=======================================================================================================================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
+https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge2.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 ********************* ASTRO HT 2
 
@@ -167,95 +198,6 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
-
-=======================================================================================================================================================
-############################################################## 1 APRIL 2024 ####################################################################
-=======================================================================================================================================================
-Spain - La Liga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6hijuyvhnrgahqk1efft5t5ko_image-header_pRow_1681756701000&quality=70" group-title="1 APRIL 2024", 2:00 - LA LIGA - Villarreal vs Atlético Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-
-Italy - Serie A
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19blf5wkuvf001g3xacd1il0ms_image-header_pDach_1705812346000&quality=70" group-title="1 APRIL 2024", 17:30 - SERIE A - Bologna vs Salernitana
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=dl58rput43t519ndz2ta9yj9x_image-header_pDach_1705812346000&quality=70" group-title="1 APRIL 2024", 20:00 - SERIE A - Cagliari vs Hellas Verona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jb2swr2lzaga1oen8aldke7ns_image-header_pDach_1705811314000&quality=70" group-title="1 APRIL 2024", 20:00 - SERIE A - Sassuolo vs Udinese
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1lq0yo72mbg1g1jtb8df22m138_image-header_pDach_1705812343000&quality=70" group-title="1 APRIL 2024", 23:00 - SERIE A - Lecce vs Roma
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=h33upamagufb1dhi6e72r49nt_image-header_pDach_1705812343000&quality=70" group-title="1 APRIL 2024", 1:45 - SERIE A - Internazionale vs Empoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
-#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
-
-
-Saudi Arabia - Pro League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=b4dd3n8726uz153ilv083hlhg_image-header_pRow_1701460763000" group-title="1 APRIL 2024", 2:00 - RSL - Al Ahli vs Al Ittihad
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUsfIgqv0QxbrmWB8UNfriesp_ISDEARP6c9vVbk4bA&s" group-title="1 APRIL 2024", 2:00 - RSL - Al Raed vs Al Khaleej
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFXcjui7rUjTx69LyQjdtLUufZYsgBDhCcbiIPUiQzQ&s" group-title="1 APRIL 2024", 2:00 - RSL - Al Hazm vs Dhamk
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-####################################################################### SPORTS ########################################################################
 
 ########---EVENT GF & F1---#######
 
@@ -346,86 +288,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
 http://37.49.225.197:8080/F31068/8fd17683/162138
 
-----------LIGA ITALIA----------
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.imgur.com/MOiqIIl.jpeg" group-title="🇮🇩LIGA INDONESIA🇮🇩", Liga 1
+http://mykingtv.net:2082/Kingtv88/88990208/5117
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/seria1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021551&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021169&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1933&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021170&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 6
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/28945
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 7
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/32884
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 8
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30812
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 9
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30687
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 10
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30463
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 11
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021090&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0QTwyn.png" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 12
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/2659
-
----------LIGA SPANYOL--------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 3
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 4
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353643_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 5
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=264973_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1965&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1968&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1497106&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 9
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2593&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVjdyv.jpeg" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 10
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1497552&extension=ts
-
----------LIGA JERMAN-------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ITjpmEX.jpeg" group-title="🇩🇪LIGA JERMAN🇩🇪", LIVE 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021585&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ITjpmEX.jpeg" group-title="🇩🇪LIGA JERMAN🇩🇪", LIVE 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021091&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ITjpmEX.jpeg" group-title="🇩🇪LIGA JERMAN🇩🇪", LIVE 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&extension=ts
 
                            ###########################
                            ========== SPORTS =========
@@ -470,19 +335,17 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT", BeIN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT", BeIN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
-
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT", BeIN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT" , Bein 4
@@ -490,15 +353,14 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
-
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT" , Bein 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT", Bein 6
@@ -506,7 +368,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F3XH87D/beinsport.jpg" group-title="SPORT", Bein 7
@@ -514,7 +376,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
