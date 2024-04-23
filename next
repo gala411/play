@@ -1609,25 +1609,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="SPORT LOKAL",Indosiar
 #https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 =======================================================================================================================================================
-############################################################## 21 APRIL 2024 ####################################################################
-=======================================================================================================================================================
-
-England - FA Cup
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=az9b624kyy4kfi4c3pbisgmrq_image-header_pEs_1711270685000" group-title="21 APRIL 2024", 21:30 - FA - Coventry City vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=az9b624kyy4kfi4c3pbisgmrq_image-header_pEs_1711270685000" group-title="21 APRIL 2024", 21:30 - FA - Coventry City vs Manchester United
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=az9b624kyy4kfi4c3pbisgmrq_image-header_pEs_1711270685000" group-title="21 APRIL 2024", 21:30 - FA - Coventry City vs Manchester United
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 
 England - Premier League
@@ -1834,7 +1815,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
 
 
 
-=======================================================================================================================================================
+==========
 ########################################################################## AFC U-23 ##################################################################
 =======================================================================================================================================================
 
@@ -1865,6 +1846,16 @@ https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-title="AFC U-23" tvg-id="SSC 1" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-title="AFC U-23" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
 
 ######################
