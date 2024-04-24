@@ -2,19 +2,6 @@
  
 ===================================================================================================
  
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2RB24G/Musica-Studio.jpg" group-title="MTV | Live", Musica Studio
-https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HK2VwGb/POP-Musik.jpg" group-title="MTV | Live",POP Musik
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MsrC8Kz/maleo.jpg" group-title="MTV | Live",Maleo
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhP4DSq/NAGASWARA-DANGDUT.jpg" group-title="MTV | Live",NAGASWARA DANGDUT
-https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 ############################################################################################################################################################
 ##########################################################       🇮🇩 Nasional                ##############################################################
 ############################################################################################################################################################
@@ -840,8 +827,20 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
 
+===================================ChannelMusic TV=======================================================================
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2RB24G/Musica-Studio.jpg" group-title="MTV | Live", Musica Studio
+https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK2VwGb/POP-Musik.jpg" group-title="MTV | Live",POP Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MsrC8Kz/maleo.jpg" group-title="MTV | Live",Maleo
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhP4DSq/NAGASWARA-DANGDUT.jpg" group-title="MTV | Live",NAGASWARA DANGDUT
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 ===================================Channel IndiTV=======================================================================
 
 
@@ -1310,112 +1309,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 
 
-<======================== KOREAN ==========================>
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",Job Plus TV
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",BBS 불교 방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",CJ OnStyle
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",CJ OnStyle Plus
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",CTS 基督教기독교TV
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",EBS+ 1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",EBS+ 2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",EBS 1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",EBS 2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",EBS 키즈
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",Job Plus tv
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",GS Shop
-https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",Gugak TV
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBC SBS 综艺
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Joy
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS LIFE
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KCTV 광주
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC 综艺频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",NBS 农业广播
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",SBS 清州放送
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",국방国防TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS1 Daejeon
-https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS1 Gwangju
-https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS1 Daegu
-https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS1 Ulsan
-https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS1 Busan
-https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Andong
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Busan
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Chungbuk
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Jeju
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Mokpo
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Ulsan
-https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",MBC Yeosu
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Drama
-https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Joy
-https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Story
-https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Life
-https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBS Kids
-https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",CJB SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",TJB SBS
-http://1.245.74.5:1935/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",KBC SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",UBC SBS
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",JTV SBS
-http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/XmQYBVGNZ1QAAAAM/flag-korean.gif" group-title="KOREAN",G1 SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 <======================== Malaysia ==========================>
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
@@ -1608,256 +1502,47 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="SPORT LOKAL",Indosiar
 #https://srtv.my.id/vd/play.m3u8?id=205&type=hls
-=======================================================================================================================================================
-
-
-England - Premier League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=avzw23khdirpbdqzu90xr0qyf_image-header_pEs_1711178139000&quality=70" group-title="21 APRIL 2024", 19:30 - EPL - Everton vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7b8rembbvtncubkrjy2yk33c5_image-header_pEs_1676296668000&quality=70" group-title="21 APRIL 2024", 21:00 - EPL - Aston Villa vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=5qbhvqb7c35asel56ssid0oxw_image-header_pEs_1677069318000" group-title="21 APRIL 2024", 21:00 - EPL - Crystal Palace vs West Ham United
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://indonesiaglobal.net/wp-content/uploads/2024/01/Liverpool-vs-Fulham.png" group-title="21 APRIL 2024", 22:30 - EPL - Fulham vs Liverpool
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 =======================================================================================================================================================
-https://mrfixitstips.co.uk/wp-content/uploads/2020/12/MRF2020_FulhamvLiverpool.jpg
-
-Spain - La Liga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=bb5x8hbm3fuuazkpdyfrcd3or_image-header_pRow_1660236181000&quality=70" group-title="21 APRIL 2024", 19:00 - LA LIGA - Getafe vs Real Sociedad
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=bkyxvt4d2k1ltf3wo6431jwd7_image-header_pRow_1710534637000&quality=70" group-title="21 APRIL 2024", 21:15 - LA LIGA - Almería vs Villarreal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=cxgqwf21vjc0pghqzkobn48v4_image-header_pRow_1674459073000&quality=70" group-title="21 APRIL 2024", 23:30 - LA LIGA - Deportivo Alavés vs Atlético Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1vi7z6b490fml15j02enbfpwt8_image-header_pRow_1710251498000&quality=70" group-title="21 APRIL 2024", 02:00 - LA LIGA - Real Madrid vs Barcelona
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1vi7z6b490fml15j02enbfpwt8_image-header_pRow_1710251498000&quality=70" group-title="21 APRIL 2024", 02:00 - LA LIGA - Real Madrid vs Barcelona
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
-
 =======================================================================================================================================================
-
-
-Italy - Serie A
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1jbbndz18sbpt1edss6mrynf50_image-header_pDach_1710770913000" group-title="21 APRIL 2024", 17:30 - SERIE A - Sassuolo vs Lecce
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=13szuudb3ais71basg80es8ln4_image-header_pDach_1710770912000&quality=70" group-title="21 APRIL 2024", 20:00 - SERIE A - Torino vs Frosinone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1le30mlv3c94q1c4gfjvylk1f7_image-header_pDach_1710770912000&quality=70" group-title="21 APRIL 2024", 23:00 - SERIE A - Salernitana vs Fiorentina
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7vqdu2d4dv4l24y8r161a2cip_image-header_pJp_1710770912000&quality=70" group-title="21 APRIL 2024", 01:45 - SERIE A - Monza vs Atalanta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-=======================================================================================================================================================
-Germany - Bundesliga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1kxjtfisojcyq11dddqtc587zg_image-header_pDach_1709640147000&quality=70" group-title="21 APRIL 2024", 20:30 - BUNDES - Werder Bremen vs Stuttgart
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1uc35v3ycpwsf11ndw33gvgppl_image-header_pDach_1709640147000" group-title="21 APRIL 2024", 22:30 - BUNDES - Borussia Dortmund vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175iehoid7d0zzf15aj231dap_image-header_pRow_1710683171000&quality=70" group-title="21 APRIL 2024", 00:30 - BUNDES - Freiburg vs Mainz 05
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-
-=======================================================================================================================================================
-Portugal - Primeira Liga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://punditfeed.com/wp-content/uploads/2023/03/estoril_vs_chaves.jpg" group-title="21 APRIL 2024", 21:30 - PRIMEIRA - Chaves vs Estoril
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCiNIvg5oPiQn6GxbNcCfgNIZwhFn2n-BMB-yu2gn0w&s" group-title="21 APRIL 2024", 21:30 - PRIMEIRA - Famalicão vs Portimonense
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/05/EI9ZtcL-1.jpg?w=999&h=562&crop=1" group-title="21 APRIL 2024", 00:00 - PRIMEIRA - Casa Pia vs Porto
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=h4vijh87gqsf1wpfktxmdo5tj_image-header_pDach_1711112744000&quality=70" group-title="21 APRIL 2024", 02:30 - PRIMEIRA - Sporting CP vs Vitória Guimarães
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-
-=======================================================================================================================================================
-France - Ligue 1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=18jms21f41h6u17bkt9tn3jpgh_image-header_pRow_1712002035000&quality=70" group-title="21 APRIL 2024", 20:00 - LIGUE 1 - Lille vs Strasbourg
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1l0oy71wqex0z1af66xsj8izkv_image-header_pRow_1703722744000&quality=70" group-title="21 APRIL 2024", 20:00 - LIGUE 1 - Reims vs Montpellier
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=hg68zcdd0enp1mijx05ah09gz_image-header_pRow_1712228580000" group-title="21 APRIL 2024", 20:00 - LIGUE 1 - Le Havre vs Metz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium442/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=akczfsuqrl6h1sqxh9tdhvj73_image-header_pRow_1712669762000" group-title="21 APRIL 2024", 22:05 - LIGUE 1 - Brest vs Monaco
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8q2ybtdwx9jh2iuy31a4tvfad_image-header_pJp_1672809734000" group-title="21 APRIL 2024", 00:00 - LIGUE 1 - Toulouse vs Olympique Marseille
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2xhmeigitq3o8qd7kxa6wmxm6_image-header_pJp_1693706387000&quality=70" group-title="21 APRIL 2024", 02:00 - LIGUE 1 - PSG vs Olympique Lyonnais
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-
-
-=======================================================================================================================================================
-USA/Canada - Major League Soccer
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://prosoccerwire.usatoday.com/wp-content/uploads/sites/107/2024/04/LAtnkpj.jpg?w=999&h=562&crop=1" group-title="21 APRIL 2024", 05:00 - MLS - Charlotte vs Minnesota United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/prd-league/sotbyplpuauvaojovoy3.png" group-title="21 APRIL 2024", 07:15 - MLS - LA Galaxy vs SJ Earthquakes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-
-
-
-
-
-
-
-
-==========
 ########################################################################## AFC U-23 ##################################################################
 =======================================================================================================================================================
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="AFC U-23" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 2 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
-https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://edge2.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 6
+#EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 group-title="AFC U-23" tvg-id="SSC 1" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 7
+#EXTINF:-1 group-title="AFC U-23" tvg-id="SSC EXTRA 3" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#EXTINF:-1 group-title="AFC U-23" tvg-id="SSC 1" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape",  LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-title="AFC U-23" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 8
+#EXTINF:-1 tvg-id="AFC U-23" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="SPORTS" , LIVE 6 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 ######################
 -----LIGA INGGRIS-----
 ######################
