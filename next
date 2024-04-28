@@ -1431,15 +1431,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="SPORT LOKAL", Moji🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
-http://rr3.dens.tv/s/s41/index.m3u8
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="SPORT LOKAL",MOJI home tv 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
+https://raw.githubusercontent.com/gala411/toettoet/main/moi
 ===================================RCTI===============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="SPORT LOKAL", 01.RCTI🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1457,54 +1451,54 @@ http://mykingtv.net:2082/Kingtv88/88990208/5117
 
 =======================================================================================================================================================
 =======================================================================================================================================================
+=======================================================================================================================================================
 ########################################################################## AFC U-23 ##################################################################
 =======================================================================================================================================================
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1 🇮🇩
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Sportstars 2.Id" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape " group-title="AFC U-23 ",LIVE 2 🇮🇩 
-https://testfunctionlive.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge2.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Sportstars 3.Id" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape " group-title="AFC U-23",LIVE 3 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="AFC U-23" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 4 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-
-#EXTINF:-1 group-title="AFC U-23" tvg-id="SSC EXTRA 3" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
-https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
-
-#EXTINF:-1 group-title="AFC U-23" tvg-id="SSC 1" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape",  LIVE 7
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-title="AFC U-23" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape",LIVE 8
-#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
-https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="AFC U-23", tvg-id="MNCSports4.id" tvg-url="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 2
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|referer=https://www.visionplus.id
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23",AFC U23 | VTV 5
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
@@ -1578,6 +1572,53 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&b
 
 #EXTINF:-1 group-title="MTV | Live Sports" tvg-id="jsports4.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png",J Sports 4 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+######################
+-----LIGA INGGRIS-----
+######################
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 1
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=482839_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 6
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5481_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 7
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208134_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 8
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564955_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 9
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 10
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 11
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 12
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 13
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649227_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 14
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=833284&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 15
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=425666&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 16
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=116252&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 17
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=71907&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧" , LIVE 18
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=636921&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 19
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078724&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧" , LIVE 20
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 21
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 22
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 23
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
 
 =========================================== Channel BeIN Sport AIS ===========================================
