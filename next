@@ -56,7 +56,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 ====================================NET TV==============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="NATIONAL", NET. HD🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://melon-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
+http://210.210.155.37/uq2663/h/h223/01.m3u8
 
 ====================================RTV==============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title="NATIONAL",13. RTV🇮🇩
