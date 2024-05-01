@@ -2,7 +2,6 @@
  
 ===================================================================================================
  
-
 ############################################################################################################################################################
 ##########################################################       🇮🇩 Nasional                ##############################################################
 ############################################################################################################################################################
@@ -12,28 +11,26 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-
+https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ===================================MNCTV===============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVmrb4D/mnctv.png" group-title="NATIONAL",02. MNCTV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
-
+https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 ======================================GTV============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDM1d08/gtv.png" group-title="NATIONAL",03. GTV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd?_FHD.m3u8
 
 =================================TRANS7=====================================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="NATIONAL",07. TRANS 7🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd?_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="NATIONAL",07. TRANS 7🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -47,7 +44,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd?_1280x720.m3u8
 
 #EXTINF:-1 group-title="NATIONAL" group-logo="" tvg-logo="https://i.ibb.co/cryTxSm/transtv.jpg", 08. TRANS TV🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -59,28 +56,28 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 ====================================NET TV==============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="NATIONAL", NET. HD🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+http://210.210.155.37/uq2663/h/h223/01.m3u8
 
 ====================================RTV==============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title="NATIONAL",13. RTV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd?_1280x720.m3u8
 
 =======================================ANTV===========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2cRDtfS/antv.png" group-title="NATIONAL", 06.ANTV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd?_1280x720.m3u8
 
 ======================================INDOSIAR============================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3px3Ccs/indosiar.jpg" group-title="NATIONAL", INDOSIAR 
-#EXTVLCOPT:http-user-agent=mozilla/89
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="NATIONAL", INDOSIAR 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 ====================================SCTV==============================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xL0wzmf/sctv.png" group-title="NATIONAL",SCTV🇮🇩
@@ -92,14 +89,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
-https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
 ====================================OK TV==============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment2/oktv.png" group-title="NATIONAL",11. OKTV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/
 
 ======================================OK ZONE============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle2/okezone.png" group-title="NATIONAL",12. OKZONE🇮🇩
@@ -108,16 +105,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-======================================MOJI============================================
-#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="NATIONAL",Moji🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="NATIONAL",MOJI FX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#https://srtv.my.id/vd/play.m3u8?id=206&type=hls
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 ======================================SERU CHANNEL============================================
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/dD8ZmDQ/SERU-CHANNEL.jpg" group-title="NATIONAL", SERU CHANNEL🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -141,10 +129,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-======================================TV Kesehatan ============================================
+
 #EXTINF:-1 group-title="NATIONAL"tvg-id="tvkesehatan.id" tvg-logo="https://i.ibb.co/hd6CRC2/TV-Kesehatan.jpg",TV Kesehatan 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFO" group-title="NATIONAL" tvg-logo="https://i.ibb.co/LdzFQHR/vtv.jpg" ch-number="92",VIVA 🇸🇬
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
 
 
 ----------------------------------------------------------------------------------------------
@@ -153,13 +145,16 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
-https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+https://melon-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 -----------------------------------------Berita Satu -----------------------------------------------------
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1, tvg-url="" tvg-id=""  tvg-logo="https://i.ibb.co/VvpjRZ8/bertasatu.jpg" group-title="NEWS",Berita Satu 
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://i.ibb.co/VvpjRZ8/bertasatu.jpg",BeritaSatu
+https://melon-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/
 
 =========================================METRO TV=========================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title="NEWS",MetroTV
@@ -167,66 +162,64 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd?_1280x720.m3u8
 
 =========================================SINDO NEWS TV=========================================
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="NEWS" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png",SindoNews
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png",MNC News
+https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 =========================================KOMPAS TV=========================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title="NEWS",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd?_1280x720.m3u8
 =========================================TV ONE=========================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title="NEWS", TVONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-
+https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd?_1280x720.m3u8
+=========================================INEWS=========================================
 #EXTINF:-1 group-title="NEWS" tvg-id="iNews.id" tvg-logo="https://hometv.pw/logo/lokal2/inews.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title="NEWS", iNews +
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-inews.rctiplus.id/inews-sdi.mpd
-
-
+=========================================Jawa Pos TV=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K0SRmg3/JAWA-POS-TV.jpg" group-title="NEWS",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
+=========================================TV Desa=========================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/vLZKPXk/TV-Desa.jpg",TV Desa
 https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
-
+======================================== MNCEntertainment=========================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment2/ent.png" group-title="NEWS", MNCEntertainment
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
-
+========================================CRIME INVESTIGATION=========================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0s57yHq/CRIME-INVESTIGATION.jpg" group-title="NEWS", CRIME INVESTIGATION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f2NdFWb/GLOBAL-TREKKER.jpg" group-title="NEWS", GLOBAL TREKKER
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
-https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://hometv.pw/logo/lokal2/cnn_indonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -234,19 +227,22 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
+------------------------------------------------ ABC Australia----------------------------------------------
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment2/abc_australia.png" group-title="NEWS" tvg-id="ABC Australia" tvg-name="ABC Australia", ABC Australia
-https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+https://melon-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplus.id
+------------------------------------------------IDX Channel----------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZNZS5mC/IDX-CHANNEL.jpg" group-title="NEWS" tvg-id="IDXChannel.id" tvg-name"IDX Channel", IDX
-https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://i.ibb.co/ZNZS5mC/IDX-CHANNEL.jpg",IDX Channel
+https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
+------------------------------------------------Liputan 6----------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j6nnXq/Liputan-6.jpg" group-title="NEWS",Liputan 6
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
@@ -259,13 +255,15 @@ http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQGF7nD/elsinta-tv.jpg"  group-title="NEWS",elsinta tv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
-#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-name="" tvg-logo="https://hometv.pw/logo/news2/sea_today.png" group-title="NEWS", SEA TODAY 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+--------------------------------------------------SEA Today-------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://hometv.pw/logo/news2/sea_today.png",SEA Today
+https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
-==========================================SELANGOR TV========================================
+-----------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jGgd4vB/selangortv.png" group-title="NEWS", SELANGOR TV 🇲🇾
 https://skyios.sky4k.top/S1G_010/playlist.m3u8
@@ -291,496 +289,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="NEWS", PARLIMEN NEGARA 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 <=========================================== TVRI Group =========================================>
-
-#################### CCTV Jogja Channel ####################
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Air Mancur
-https://mam.jogjaprov.go.id:1937/cctv-kp/AirMancur.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Alun-Alun Selatan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Alun-alun Sleman dari posisi Selatan
-http://103.71.191.168/8881/hls/live.stream.m3u8
-
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Alun-Alun Utara 1
-https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",ALUN-ALUN WONOSARI
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/ALUN-ALUN_WONOSARI.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Babarsari 2
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Babarsari2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Balaikota Timur
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/chunklist_w518277922.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Balaikota Utara
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/chunklist_w716232207.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Banyurejo Selatan
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Banyurejo_Selatan.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Bendung Niten
-https://mam.jogjaprov.go.id:1937/cctv-bantul/BendungNiten.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Beringharjo dari posisi 2
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w525075417.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Beringharjo DIY
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",BPK
-https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w1983574447.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Bukit Klangon
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w1171776566.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",BUNDERAN SIYONO
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_SIYONO.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Bunderan Srandakan
-https://mam.jogjaprov.go.id:1937/cctv-bantul/BunderanSrandakan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Depan Hotel Grand Mercure
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1443260072.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",DPRD dari posisi 1
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/chunklist_w143799217.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",DPRD dari posisi 2
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/chunklist_w3935173.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Embung Nglanggeran
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Gayam
-https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1910678128.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Gondomanan
-https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",GOR Amongrogo
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w569088877.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Halaman Media Center
-https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanMediaCenter.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Halaman Pemda
-https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanPemda.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Halte Trans Jogja
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/chunklist_w1501080877.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Hotel Cavinton
-https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/chunklist_w2099816399.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Hotel Inna Garuda dari posisi 1
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Hotel Inna Garuda dari posisi 2
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream/chunklist_w442388786.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Hotel Mutiara Baru
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w720959519.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Istana Negara Gedung Agung Yogyakarta
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/chunklist_w609340057.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",JALAN BARON MULO
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JALAN_BARON_MULO.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",JALAN MANTHOUS PLAYEN
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JALAN_MANTHOUS_PLAYEN.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",JALAN NASIONAL III PLAYEN
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JALAN_NASIONAL_III_PLAYEN.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Jetis
-https://mam.jogjaprov.go.id:1937/atcs-kota/Jetis.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Jlagran
-https://mam.jogjaprov.go.id:1937/atcs-kota/Jlagran.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Jokteng Wetan dari posisi Dealer Piaggio
-https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Buntung 1
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliBuntung1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Buntung 2
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliBuntung2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Gajah Wong 1
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliGajahWong1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Gajah Wong 2
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliGajahWong2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Ngentak
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliNgentak.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Segoro Amarto
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliSegoroAmarto.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kali Winongo 1
-https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliWinongo1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Karangnongko
-https://mam.jogjaprov.go.id:1937/cctv-kp/Karangnongko.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kauman
-https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/chunklist_w205073418.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kawasan Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Kepatihan dari posisi 2
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_10_Kepatihan.stream/chunklist_w1403073580.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",LabKes
-https://mam.jogjaprov.go.id:1937/cctv-kp/LabKes.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Lapangan Basket
-https://mam.jogjaprov.go.id:1937/cctv-kp/LapanganBasket.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Lempuyangan dari posisi Toko Intisari
-https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Maguwoharjo 2
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Maguwoharjo 3
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo3.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Maguwoharjo 6
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo6.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Malioboro DIY
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Malioboro Mall
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Malioboro Mall dari posisi Selatan
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/chunklist_w183783345.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Malioboro Mall dari posisi Utara
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/chunklist_w803257147.m3u8
-
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Merapi dari posisi 1
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Merapi dari posisi 2
-http://103.71.191.168/8910/hls/live.stream.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Mirota Kampus Simanjuntak
-https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w160846704.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Munggur 2
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Munggur2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",NOL KM dari posisi 1
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",NOL KM dari posisi 2
-https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w907331838.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",PANTAI BARON
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_BARON.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",PANTAI KUKUP
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_KUKUP.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Parkiran Ngabean
-https://mam.jogjaprov.go.id:1937/atcs-kota/ParkiranNgabean.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pasar Bantul
-https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pasar Gading dari posisi DayTrans Travel 2
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Paseban
-https://mam.jogjaprov.go.id:1937/cctv-bantul/Paseban.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Patangpuluhan dari posisi SPBU Bugisan 1
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/chunklist_w572908058.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Patangpuluhan dari posisi SPBU Bugisan 2
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklist_w1112828954.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Perempatan Godean
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Godean.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Perempatan PasarStan
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_PasarStan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Perempatan Tamansari
-https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/chunklist_w577153823.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pertigaan Balaikota
-https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/chunklist_w1355920044.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pertigaan Glagahsari dari posisi Toko Kenes-UTY 2
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/chunklist_w1599491110.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pertigaan Jl. Kyai Mojo dari posisi Toko A.Takrib 1
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pertigaan Jl. Kyai Mojo dari posisi Toko A.Takrib 2
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/chunklist_w2139189844.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Pertigaan Tamsis
-https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Plaza Ambarrukmo
-http://103.71.191.168/8912/hls/live.stream.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",PojokTamanBermain
-https://mam.jogjaprov.go.id:1937/cctv-kp/PojokTamanBermain.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Ramayana 2
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/chunklist_w2035487993.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",RBRA
-https://mam.jogjaprov.go.id:1937/cctv-kp/RBRA.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Selomartani Selatan
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Selomartani_Selatan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Selomartani Utara
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Selomartani_Utara.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Sentul
-https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SGM
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Sidomoyo Selatan
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Sidomoyo_Selatan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Sidomoyo Utara
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Sidomoyo_Utara.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SIMPANG 3 AMIGO
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_3_AMIGO.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SIMPANG 3 PLAYEN
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_3_PLAYEN.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SIMPANG 4 GADING
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_GADING.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SIMPANG 4 PATUK
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_PATUK.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SIMPANG 4 RSUD WONOSARI
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_RSUD_WONOSARI.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SIMPANG 4 TROWONO
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_TROWONO.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Amongrogo Timur
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangAmongrogoTimur.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Borobudur Plaza
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang De Britto
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDeBritto.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Demangan Selatan
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganSelatan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Demangan Selatan dari posisi Empire XXI
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w879574333.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Demangan Timur dari posisi Empire XXI
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w767797560.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Demangan Utara dari posisi Empire XXI
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w1257576875.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Galeria Timur Selatan
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Jogjatronik Mall
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/chunklist_w160017393.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Kolombo 1
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangKolombo1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Kolombo 2
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangKolombo2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Ngablak
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangNgablak.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pamungkas
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangPamungkas.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pasar Gading 2
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pasar Stan
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangPasarStan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pingit dari posisi 1
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/chunklist_w1034097150.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pingit dari posisi 2
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/chunklist_w1313710975.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pingit dari posisi 2
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pingit dari posisi 3
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/chunklist_w1967862192.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pingit dari posisi 3
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Pingit dari posisi 4
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w43813416.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Santikara 1
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangSantikara1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Santikara 2
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangSantikara2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Taman Batik Terang Bulan dari posisi 1
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w1018832673.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Taman Batik Terang Bulan dari posisi 2
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1311275126.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Terban Utara
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanUtara.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang UNY
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangUNY.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang XT Square dari posisi Pintu Belakang
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/chunklist_w88752653.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Simpang XT Square dari posisi Pintu Depan
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/chunklist_w1340241130.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",SimpangTajem
-https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangTajem.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Stasiun Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Supit Urang Pajimatan Imogiri
-https://mam.jogjaprov.go.id:1937/cctv-bantul/SupitUrangPajimatanImogiri.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Taman Makam Pahlawan Kusumanegara
-https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",TamanPemda
-https://mam.jogjaprov.go.id:1937/cctv-kp/TamanPemda.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Tangga Pajimatan Imogiri
-https://mam.jogjaprov.go.id:1937/cctv-bantul/TanggaPajimatanImogiri.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Tebing Breksi
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Teras Malioboro
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/chunklist_w134111321.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Terminal
-https://mam.jogjaprov.go.id:1937/cctv-kp/Terminal.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Terminal Imogiri 01
-https://mam.jogjaprov.go.id:1937/cctv-bantul/TerminalImogiri01.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Terminal Imogiri 02
-https://mam.jogjaprov.go.id:1937/cctv-bantul/TerminalImogiri02.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Teteg Kulon
-https://mam.jogjaprov.go.id:1937/cctv-kp/TetegKulon.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Teteg Wetan
-https://mam.jogjaprov.go.id:1937/cctv-kp/TetegWetan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Tirtoadi Selatan
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Tirtoadi_Selatan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",TPRParangtritis
-https://mam.jogjaprov.go.id:1937/cctv-bantul/TPRParangtritis.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",TUGU SELAMAT DATANG GK
-https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TUGU_SELAMAT_DATANG_GK.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",UKDW
-https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w2005994098.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Alun-Alun Kidul
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Baron Barat
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronBarat.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Breksi
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Candi Prambanan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Depan Beringharjo
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Depan Garuda
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Depan Mall
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Gunung Merapi
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Malioboro
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Mangunan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Nglanggeran
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Nol KM
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Parangtritis
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Simpang Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",View Stasiun Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",WanaWil
-https://mam.jogjaprov.go.id:1937/cctv-kp/WanaWil.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Wirobrajan
-https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w1392608056.m3u8
-
-#EXTINF:-1 group-title="Thole CCTV Jogja" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Jogja-Istimewa.png",Wirobrajan
-https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/playlist.m3u8
-
-
 
 #EXTM3U
 
@@ -971,174 +479,218 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr.dens.tv/h/h08/index.m3u8 
 
+--------------------------------------------------NaDoo Korean -------------------------------------------------
 #EXTINF:-1 group-title="MOVIES" tvg-id="nadoo.sg" tvg-logo="https://i.ibb.co/2sm1ryp/Na-Doo-Korean.jpg",NaDoo Korean 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/imc.png" group-title="MOVIES", INDONESIA MOVIE CHANNEL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+--------------------------------------------------------IMC---------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/imc.png",IMC
+https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+----------------------------------------CINEMAHI---------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemachi.png" group-title="MOVIES", CINEMACHI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/cinemachi.png",Cinemachi
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+---------------------------------------------------------CINEMACHI XTRA-----------------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/cinemachi_xtra.png",Cinemachi Xtra
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+-----------------------------------------------------CINEMACHI MAX----------------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/cinemachi_max.png",Cinemachi Max
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+-----------------------------------------CINEMACHI ACTION--------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/cinemachi_action.png",Cinemachi Action
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemachi_xtra.png" group-title="MOVIES", CINEMACHI XTRA
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemachi_max.png" group-title="MOVIES", CINEMACHI MAX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemachi_action.png" group-title="MOVIES", CINEMACHI ACTION
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png" group-title="MOVIES", CINEMACHI KIDS
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
+-----------------------------------------------Cinemachi Kids--------------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png",Cinemachi Kids
+https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/tvn_movies.png" group-title="MOVIES", TVN MOVIES
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+http://210.210.155.37/uq2663/h/h214/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/celestial_movies.png" group-title="MOVIES", CELESTIAL MOVIE
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
-https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+--------------------------------------- CELESTIAL MOVIE--------------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/celestial_movies.png",Celestial Movies Indonesia
+https://melon-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/ccm.png" group-title="MOVIES", CELESTIAL CLASSIC
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
-https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+------------------------------------------------CELESTIAL CLASSIC-------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/thrill.png" group-title="MOVIES", THRILL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/ccm.png",CCM
+https://melon-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+--------------------------------------------------------------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/thrill.png",Thrill
+https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+-------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TTVBtLW/CINEMA-WORLD.jpg" group-title="MOVIES", CINEMA WORLD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+http://210.210.155.37/uq2663/h/h202/01.m3u8
+=============================================MY CINEMA==============================================================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="mycinema.id" tvg-logo="https://hometv.pw/logo/movies2/my_cinema.png",My Cinema
+https://melon-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+--------------------------------------------------My Family Channel-------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="myfamily.id" tvg-logo="https://hometv.pw/logo/movies2/my_family_channel.png",My Family Channel
+https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+---------------------------------------------------My Cinema ASIA---------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 group-title="MOVIES" tvg-id="mycinemaasia.id" tvg-logo="https://hometv.pw/logo/movies2/my_cinema_asia.png",My Cinema Asia
+https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+--------------------------------------------HITS MOVIE----------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/my_cinema.png" group-title="MOVIES", MY CINEMA
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/hits_movies.png",HITS Movies
+https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+------------------------------------------HITS-----------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/hits.png",HITS
+https://melon-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/my_family_channel.png" group-title="MOVIES", MY FAMILY
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+----------------------------------------------Galaxy Premium--------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/galaxy_premium.png",Galaxy Premium
+https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/my_cinema_asia.png" group-title="MOVIES", MY CINEMA ASIA
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+-------------------------------GALAXY----------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/2cDWj05/GALAXY-TV.jpg",Galaxy
+https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+--------------------------------------------ZEE BIOSKOP------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hits_movies.png" group-title="MOVIES", HITS MOVIE
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
-https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES"" tvg-logo="https://hometv.pw/logo/movies2/zee_bioskop.png",Zee Bioskop
+https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+-------------------------------------------------tvN Asia--------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hits.png" group-title="MOVIES", HITS
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
-https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/mS1zCnm/TVN.jpg",tvN Asia
+https://melon-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
+------------------------------------------AXN-----------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/axn.png",AXN Indonesia
+https://melon-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/galaxy_premium.png" group-title="MOVIES", GALAXY PREMIUM
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+------------------------------------------ROCK ENTERTAINMENT-----------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/9GBk0T6/Rock-enter-hometv.jpg",Rock Entertainment
+https://melon-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
+----------------------------------------------------------------Rock Action---------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/JkLJcw5/Rock-act-hometv.png",Rock Action
+https://melon-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+==================================KIK===============================================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/kix.png",KIX
+https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2cDWj05/GALAXY-TV.jpg" group-title="MOVIES", GALAXY
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/zee_bioskop.png" group-title="MOVIES", ZEE BIOSKOP
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
-https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mS1zCnm/TVN.jpg" group-title="MOVIES", TVN
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/axn.png" group-title="MOVIES", AXN
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
-https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lrjyk3k/ROCK-ENTERTAINMENT.jpg" group-title="MOVIES", ROCK ENTERTAINMENT
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YLFCLFj/ROCK-ACTION.jpg" group-title="MOVIES", ROCK ACTION
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/kix.png" group-title="MOVIES", KIX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
-https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
+===================================FLIK===============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/flik.png" group-title="MOVIES",FLIK 
 http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/3278
 
 
 ===================================ONE===============================================
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment2/one.png" group-title="MOVIES",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/entertainment2/one.png",ONE
+https://melon-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/
 
 ==================================FMN================================================
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://hometv.pw/logo/entertainment2/fmn.png",FMN
-https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/entertainment2/fmn.png",FMN
+https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+----------------------------------------------DRAGON TV -------------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/PWCx1D3/Dragon-TV.jpg",Dragon TV
+https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
 
 ######---HBO MAXTREAM---#####
@@ -1164,21 +716,38 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
+
+###########
+
+#EXTINF:-1 group-title="HBO GROUP" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0", HBO (Cub) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png", HBO Signature (Cub) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png", HBO Hits (Cub) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png", HBO Family (Cub) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>>  HBO 🇮🇩"
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title=" HBO 🇮🇩"",HBO 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11834
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title=" HBO 🇮🇩"",HBO SIGN 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11835
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title=" HBO 🇮🇩"",HBO HITS 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11836
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title=" HBO 🇮🇩"",HBO FAMILY 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11837
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title=" HBO 🇮🇩"",CINEMAX 
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11838
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/warner.png" group-title="HBO 🇮🇩"",WARNER 
-http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/3279
 
 ----------------------DAERAH---------------------------------
 #EXTINF:-1 tvg-id="LINGKARTV.id" tvg-logo="https://i.ibb.co/GTXsnVq/LINGKAR-TV.png" group-title="DAERAH",LINGKAR TV
@@ -1197,7 +766,7 @@ http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.ibb.co/nkvm7Zr/Jak-TV.png",Jak TV
-https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|user-agent=okhttp/4.10.0?network_id=hses5.hotstar.com:443
 
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://i.ibb.co/FVjrdsg/Inspira-TV.png" group-title="DAERAH",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -1211,11 +780,15 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4ftq59/TV-TABALONG.png" group-title="DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
 
+
+------------------------------------JTV------------------------------------------------
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.ibb.co/Z8Zfh4S/jtv.png",JTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="DAERAH" tvg-logo="https://i.ibb.co/Z8Zfh4S/jtv.png",JTV
+https://melon-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
+----------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/RDNnB0H/Kilisuci-TV-Kediri.png",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
@@ -1230,7 +803,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0qprnR/Bandung-TV.png" group-title="DAERAH" tvg-id="BandungTV" tvg-name="Bandung TV", Bandung TV
-https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|user-agent=okhttp/4.10.0?network_id=hses5.hotstar.com:443
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
@@ -1299,8 +872,20 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
 
+===================================ChannelMusic TV=======================================================================
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2RB24G/Musica-Studio.jpg" group-title="MTV | Live", Musica Studio
+https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK2VwGb/POP-Musik.jpg" group-title="MTV | Live",POP Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MsrC8Kz/maleo.jpg" group-title="MTV | Live",Maleo
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhP4DSq/NAGASWARA-DANGDUT.jpg" group-title="MTV | Live",NAGASWARA DANGDUT
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 ===================================Channel IndiTV=======================================================================
 
 
@@ -1607,6 +1192,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="KIDS" tvg-id="disneych" tvg-logo="https://i.imgur.com/ZDsOD3H.png", Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_horee_ver1.png" group-title="KIDS", Horee (Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qAjXLUh.png" group-title="KIDS", Mentari TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
@@ -1767,3 +1357,388 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 
 #EXTINF:-1 tvg-name="SMITHSONIAN" tvg-logo="https://hometv.pw/logo/knowledge/smithsonian.png" group-title="🔹 KNOWLEDGE🔹 ",SMITHSONIAN
 https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
+
+
+
+<======================== Malaysia ==========================>
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://s.id/KITKATTV" group-title="Malaysia",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1732
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://s.id/KITKATTV" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="OKEY" tvg-name="Okey" tvg-url="https://s.id/KITKATTV" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://s.id/KITKATTV" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TV Sarawak
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1730
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://s.id/KITKATTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://s.id/KITKATTV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571307&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="https://i.ibb.co/c2SK33V/Awesome-TV.jpg" group-title="Malaysia",Awesome TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/qkWY696/Travel-Taste.jpg",Travel&Taste 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/8b2Pt3N/Lawak-Sentral.jpg",Lawak Sentral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/gtR4rmh/Drama-Hebat.jpg",Drama Hebat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+##################################SPORT LOKAL###################################
+################################################################################
+
+======================================SPORT START ============================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg",Sportstar
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+-------------------------------------------SPORT START 2 ---------------------------------------------------------------
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="MNCSports2.id" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg",Sportstar 2
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+------------------------------------------------SPORT START 3 ----------------------------------------------------------------
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg",Sportstar 3
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+-------------------------------------------------------SPORT START 4 ------------------------------------------------------------------------------
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/10j1TQW/sportstars.jpg ",Sportstar 4
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+======================================SpoTV============================================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="SPORT LOKAL"" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+--------------------------------------------------SPORT TV 2-------------------------------------------------------------------
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg",SPOTV2
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+======================================Soccer Channel============================================
+#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/yQFnpvw/soccer-channel.jpg" group-title="SPORT LOKAL",Soccer Channel🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+======================================Fight Sports============================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTINF:-1 tvg-id="" group-title="SPORT LOKAL" tvg-logo="https://i.ibb.co/z2hYr4n/Fight-Sports.jpg",Fight Sports
+https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+===================================RCTI===============================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="SPORT LOKAL", 01.RCTI🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd?_FHD.m3u8
+
+======================================INDOSIAR============================================
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="SPORT LOKAL", INDOSIAR 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
+http://mykingtv.net:2082/Kingtv88/88990208/5117
+
+===============================================================TVRI Sport===================================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX0fhd3/tvri-sport.jpg" group-title="SPORT LOKAL" tvg-id="TVRISport.id" tvg-name="TVRI Sport HD", TVRI Sport 🇮🇩
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+======================================MOJI============================================
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="MOJI",Moji Indi🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="MOJI" tvg-id="moji.id" tvg-logo="https://hometv.pw/logo/sports2/moji.png",Moji 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvtree.net:8080/F14995/a84c0963/298550
+http://210.210.155.35/x6bnqe/s/s41/index.m3u8
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="MOJI" tvg-logo="https://hometv.pw/logo/sports2/moji.png", Moji 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
+=======================================================================================================================================================
+
+########################################################################## SSC ##################################################################
+#EXTINF:-1 group-title="SSC" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+ 
+ 
+#EXTINF:-1 group-title="SSC" tvg-id="SSC 2" tvg-logo="https://i.ibb.co/d5cDvgD/Untitled-1-32.png", SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+ 
+#EXTINF:-1 group-title="SSC" tvg-id="SSC 3" tvg-logo="https://i.ibb.co/G0VBvmQ/Untitled-1-38.png", SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+ 
+ 
+#EXTINF:-1 group-title="SSC" tvg-id="SSC 4" tvg-logo="https://i.ibb.co/KFn4pR0/Untitled-1-33.png", SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+ 
+#EXTINF:-1 group-title="SSC" tvg-id="SSC 5" tvg-logo="https://i.ibb.co/2YMmF4s/Untitled-1-34.png", SSC 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+ 
+#EXTINF:-1 group-title="SSC" tvg-logo="https://i.ibb.co/jD6030b/Untitled-1-35.png", SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+ 
+#EXTINF:-1 group-title="SSC" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co/qjCsRX5/Untitled-1-36.png", SSC EXTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 group-title="SSC" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co/qjCsRX5/Untitled-1-36.png", SSC EXTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+=========================================== MTV | Live Sports ===========================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="MTV | Live Sports",Premier Sports 1 
+http://202.21.104.6:88/sps-prime/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="MTV | Live Sports",Premier Sports 2 
+http://202.21.104.6:88/sps-play/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="MTV | Live Sports",Premier Sports 3 
+http://202.21.104.6:88/sps-world/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="MTV | Live Sports",Premier Sports 4 
+http://202.21.104.6:88/sps-action/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="MTV | Live Sports",Premier Sports 5 
+http://202.21.104.6:88/sps-plus/index.m3u8
+
+#EXTINF:-1 group-title="MTV | Live Sports" tvg-id="jsports1.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png",J Sports 1 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="MTV | Live Sports" tvg-id="jsports2.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png",J Sports 2 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="MTV | Live Sports" tvg-id="jsports3.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png",J Sports 3 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="MTV | Live Sports" tvg-id="jsports4.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png",J Sports 4 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+
+
+########################################################################## ELEVEN##################################################################
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.ibb.co/kc5KZ5c/Untitled-1-10.png" group-title="ELEVEN" , DAZN ELEVEN 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.ibb.co/3SVYrd2/Untitled-1-11.png" group-title="ELEVEN" , DAZN ELEVEN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd 
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.ibb.co/sRHChnd/Untitled-1-12.png" group-title="ELEVEN" , DAZN ELEVEN 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd 
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.ibb.co/FJSkXkq/Untitled-1-13.png" group-title="ELEVEN" , DAZN ELEVEN 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd 
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://i.ibb.co/swf6sHv/Untitled-1-14.png" group-title="ELEVEN" , DAZN ELEVEN 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.ibb.co/bHy4M1c/Untitled-1-15.png" group-title="ELEVEN" , DAZN ELEVEN 6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
+
+##########################################################################  PLAY SPORT##################################################################
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.imgur.com/QRLzSJ8.jpeg" group-title=" PLAY SPORT", PLAY SPORT 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.imgur.com/SigVRRI.jpeg" group-title=" PLAY SPORT", PLAY SPORT 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.imgur.com/Oag3EC1.jpeg" group-title=" PLAY SPORT", PLAY SPORT 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
+
+******************ASTRO##################################################################
+
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
+
+
+   
+                           ========== SPORTS =========
+                           ############################
+
+########################################################     Sony Sports    ########################################################
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/eytC2sS.png?v=1.1.1.1" group-title="SONY SPORTS" tvg-id="SONY Sport TEN 1" tvg-name="SONY SPORTS TEN 1", SONY Sports TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/dq2vacS.png?v=1.1.1.1" group-title="SONY SPORTS" tvg-id="SONY SPORTS TEN 2 HD" tvg-name="SONY SPORTS TEN 2 HD", SONY Sports TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/k5vXcl8.png?v=1.1.1.1" group-title="SONY SPORTS" tvg-id="SONY Sport TEN 3" tvg-name="SONY SPORTS TEN 3", SONY Sports TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF: -1 tvg-id="143" tvg-logo="https://i.imgur.com/FbkJREm.png?v=1.1.1.1" group-title="SONY SPORTS" tvg-id="SONY Sport TEN 4" tvg-name="SONY SPORTS TEN 4", SONY Sports TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/JC1ZGPu.png?v=1.1.1.1" group-title="SONY SPORTS" tvg-id="SONY Sport TEN 5" tvg-name="SONY SPORTS TEN 5", SONY Sports TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+########################################################     TSN Sports    ########################################################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYSL0s2/TSN-Sports.jpg" group-title="TSN Sports", TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYSL0s2/TSN-Sports.jpg" group-title="TSN Sports", TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYSL0s2/TSN-Sports.jpg" group-title="TSN Sports", TSN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYSL0s2/TSN-Sports.jpg" group-title="TSN Sports", TSN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYSL0s2/TSN-Sports.jpg" group-title="TSN Sports", TSN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
