@@ -1513,6 +1513,12 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd?_FHD.m3u8
 
+===================================RCTI===============================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="SPORT LOKAL", 01.RCTIðŸ‡®ðŸ‡©
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 ======================================INDOSIAR============================================
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="SPORT LOKAL", INDOSIAR 🇮🇩
