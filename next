@@ -54,10 +54,12 @@ https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd?_1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 ====================================NET TV==============================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="NATIONAL", NET. HD🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-http://210.210.155.37/uq2663/h/h223/01.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="NATIONAL" tvg-logo="https://hometv.pw/logo/lokal2/nettv.png",NET
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 ====================================RTV==============================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title="NATIONAL",13. RTV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -99,11 +101,6 @@ https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/
 
 ======================================OK ZONE============================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle2/okezone.png" group-title="NATIONAL",12. OKZONE🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
-https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 
 ======================================SERU CHANNEL============================================
@@ -138,7 +135,9 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
 
-
+#EXTINF:-1 group-title="NATIONAL"tvg-id="NasionalTV.id" tvg-logo="https://i.ibb.co/pRCXbyB/Nasional-TV.jpg",Nasional TV 🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
 ----------------------------------------------------------------------------------------------
 --------------------------------------------------NEWS----------------------------------------
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title="NEWS", TVRI
@@ -886,6 +885,19 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhP4DSq/NAGASWARA-DANGDUT.jpg" group-title="MTV | Live",NAGASWARA DANGDUT
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="MTV | Live" tvg-id="musictv.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MTV | Live",MTV Live
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
 ===================================Channel IndiTV=======================================================================
 
 
@@ -1484,7 +1496,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 ======================================Fight Sports============================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
@@ -1515,20 +1527,14 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 ======================================MOJI============================================
-#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="MOJI",Moji Indi🇮🇩
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="SPORT LOKAL",Moji Indi🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 group-title="MOJI" tvg-id="moji.id" tvg-logo="https://hometv.pw/logo/sports2/moji.png",Moji 
+#EXTINF:-1 group-title="SPORT LOKAL" tvg-id="moji.id" tvg-logo="https://hometv.pw/logo/sports2/moji.png",Moji 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://iptvtree.net:8080/F14995/a84c0963/298550
-http://210.210.155.35/x6bnqe/s/s41/index.m3u8
-http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="MOJI" tvg-logo="https://hometv.pw/logo/sports2/moji.png", Moji 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 =======================================================================================================================================================
 
