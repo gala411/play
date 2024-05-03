@@ -102,7 +102,11 @@ https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|user-agent=o
 
 ======================================OK ZONE============================================
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="Okezone TV - [Channel 90].id" tvg-name="Okezone TV - [Channel 90].id" tvg-logo="https://hometv.pw/logo/lifestyle2/okezone.png" group-title="NATIONAL" tvg-chno="55",Okezone TV
+https://melon-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 ======================================SERU CHANNEL============================================
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/dD8ZmDQ/SERU-CHANNEL.jpg" group-title="NATIONAL", SERU CHANNEL🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -135,9 +139,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
 
-#EXTINF:-1 group-title="NATIONAL"tvg-id="NasionalTV.id" tvg-logo="https://i.ibb.co/pRCXbyB/Nasional-TV.jpg",Nasional TV 🇸🇬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
+
 ----------------------------------------------------------------------------------------------
 --------------------------------------------------NEWS----------------------------------------
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title="NEWS", TVRI
@@ -527,12 +529,13 @@ https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png",Cinemachi Kids
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/tvn_movies.png" group-title="MOVIES", TVN MOVIES
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-http://210.210.155.37/uq2663/h/h214/01.m3u8
+----------------------------------------tvN Movies--------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="tvNMovies.Id" tvg-logo="https://hometv.pw/logo/movies2/tvn_movies.png" group-title="MOVIES",tvN Movies
+https://melon-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 --------------------------------------- CELESTIAL MOVIE--------------------------------------------------------------
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
@@ -562,7 +565,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-http://210.210.155.37/uq2663/h/h202/01.m3u8
+https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 =============================================MY CINEMA==============================================================
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -662,10 +665,11 @@ https://melon-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
 ===================================FLIK===============================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/flik.png" group-title="MOVIES",FLIK 
-http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/3278
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="MOVIES" tvg-logo="https://hometv.pw/logo/movies2/flik.png",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 ===================================ONE===============================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
@@ -691,6 +695,12 @@ https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/PWCx1D3/Dragon-TV.jpg",Dragon TV
 https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://hometv.pw/logo/movies/kix.png" group-title="MOVIES",KIX
+https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 ######---HBO MAXTREAM---#####
 ############################
@@ -870,7 +880,9 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Jambi_TV_2019.png" group-title="DAERAH",Jambi TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
-
+#EXTINF:-1 group-title="DAERAH"tvg-id="NasionalTV.id" tvg-logo="https://i.ibb.co/pRCXbyB/Nasional-TV.jpg",Nasional TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
 ===================================ChannelMusic TV=======================================================================
 #EXTM3U
 
@@ -1514,7 +1526,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd?_FHD.m3u8
 
 ===================================RCTI===============================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="SPORT LOKAL", 01.RCTIðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="SPORT LOKAL", 01.RCTI🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -1523,8 +1535,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="SPORT LOKAL", INDOSIAR 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
-http://mykingtv.net:2082/Kingtv88/88990208/5117
+http://iptvtree.net:8080/F14995/a84c0963/162138
 
 ===============================================================TVRI Sport===================================
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1541,7 +1552,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://iptvtree.net:8080/F14995/a84c0963/298550
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="beINSports1.Id" tvg-logo="https://i.ibb.co/3mZwrWX/be-IN-Sports-1.jpg" group-title="SPORT LOKAL",beIN Sports 1
+https://melon-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="beINSports3.Id" tvg-logo="https://i.ibb.co/m5YS8v5/be-IN-Sports-3.jpg" group-title="SPORT LOKAL,beIN Sports 3
+https://melon-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 =======================================================================================================================================================
 
 ########################################################################## SSC ##################################################################
@@ -1754,3 +1775,100 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
 https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+
+------------------------------------SPORT TV------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV + HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/51993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV +
+http://dns.acaidopara.net:8080/5087405929/7405929508/10795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CBBFPSg/Sport-TV-HD.jpg" group-title="SPORT TV", Sport TV 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/L6QbPns/Sport-TV-2-HD.jpg" group-title="SPORT TV", Sport TV 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/L6QbPns/Sport-TV-2-HD.jpg" group-title="SPORT TV", Sport TV 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/L6QbPns/Sport-TV-2-HD.jpg" group-title="SPORT TV", Sport TV 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4t4jSxk/Sport-TV-3-HD.jpg" group-title="SPORT TV", Sport TV 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4t4jSxk/Sport-TV-3-HD.jpg" group-title="SPORT TV", Sport TV 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4t4jSxk/Sport-TV-3-HD.jpg" group-title="SPORT TV", Sport TV 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/1522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJQyK3q/Sport-TV-4-HD.jpg" group-title="SPORT TV", Sport TV 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJQyK3q/Sport-TV-4-HD.jpg" group-title="SPORT TV", Sport TV 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJQyK3q/Sport-TV-4-HD.jpg" group-title="SPORT TV", Sport TV 4
+http://dns.acaidopara.net:8080/5087405929/7405929508/1525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zNZBqbj/Sport-TV-5-HD.jpg" group-title="SPORT TV", Sport TV 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zNZBqbj/Sport-TV-5-HD.jpg" group-title="SPORT TV", Sport TV 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zNZBqbj/Sport-TV-5-HD.jpg" group-title="SPORT TV", Sport TV 5
+http://dns.acaidopara.net:8080/5087405929/7405929508/1528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n0X3Jwx/Sport-TV-6-HD.jpg" group-title="SPORT TV", Sport TV 6 HD 
+http://dns.acaidopara.net:8080/5087405929/7405929508/68314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n0X3Jwx/Sport-TV-6-HD.jpg" group-title="SPORT TV", Sport TV 6 
+http://dns.acaidopara.net:8080/5087405929/7405929508/68315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y21Qp5r/NBA.jpg" group-title="SPORT TV", NBA 
+http://dns.acaidopara.net:8080/5087405929/7405929508/45258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nRgqkDr/Benfica-TV-HD.jpg" group-title="SPORT TV", Benfica TV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nRgqkDr/Benfica-TV-HD.jpg" group-title="SPORT TV", Benfica TV HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/1530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nRgqkDr/Benfica-TV-HD.jpg" group-title="SPORT TV", Benfica TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hY04HdK/Sporting-TV.jpg" group-title="SPORT TV", Sporting TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 1 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/2373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 2 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/2381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 3 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 3
+http://dns.acaidopara.net:8080/5087405929/7405929508/2387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 4 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 4
+http://dns.acaidopara.net:8080/5087405929/7405929508/2395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 5 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 5
+http://dns.acaidopara.net:8080/5087405929/7405929508/2401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 6 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 6 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2kkwBpD/Eleven-Sports.jpg" group-title="SPORT TV", Eleven Sports 6
+http://dns.acaidopara.net:8080/5087405929/7405929508/2407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jHfRZKD/canal-11.jpg" group-title="SPORT TV", Canal 11 HD
+http://dns.acaidopara.net:8080/5087405929/7405929508/2623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1Q3GxWQ/A-Bola-TV.jpg" group-title="SPORT TV", A Bola TV
+http://dns.acaidopara.net:8080/5087405929/7405929508/1535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dBDxTRS/Eurosport-1.jpg" group-title="SPORT TV", Eurosport 1
+http://dns.acaidopara.net:8080/5087405929/7405929508/1536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Z1qnmmF/Eurosport-2.jpg" group-title="SPORT TV", Eurosport 2
+http://dns.acaidopara.net:8080/5087405929/7405929508/1537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDBZwNy/Fight-Network.jpg" group-title="SPORT TV", Fight Network
+http://dns.acaidopara.net:8080/5087405929/7405929508/1538
