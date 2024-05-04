@@ -135,34 +135,8 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
 
 
-//copy right by,@hometv menampilkan playlist >>> HOME TV BIOSKOP
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Action
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE7jBV3PoO9jNUQ7DVtH0ZEg/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Thriller
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE2qVsAAZPjkJ5BiGr-_l_CU/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop China
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BEyxiW-fihAUjZBX2x3-4ezQ/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Bollywood
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BEz2P5Zz2aFGXWDVLGTEJwy8/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Drama & Family
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE5_WrXqI4quLhu5r_x1iMz4/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Horror
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BEzuRPGwdQut_ZHxOpTTL8wQ/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Indonesia
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE2MAionINRoLlPBXfkVNEH0/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Warkop DKI
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE3NdMjUy1x_WODhWI22tFIw/m3u8
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> HOME FUNNY
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/campur/jfl.png" group-title="HOME FUNNY",Just For Laughs
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BEwYnBA3-KiBCeIrKbX8ze10/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/tom_jerry.png" group-title="HOME FUNNY",TOM & JERRY
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE1gahVPtnaNEzPXFo5HcsHo/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/bean.png" group-title="HOME FUNNY",MR. BEAN
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE2qWINuKogyXtm8vEw05YMQ/m3u8
-//========================================================================
+
+
 
 --------------------------------------------------NEWS----------------------------------------
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title="NEWS", TVRI
@@ -726,19 +700,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/PWCx1D3/Dragon-TV.jpg",Dragon TV
 https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 
-==================================HBO======================================
 
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="MOVIES",HBO HD
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE1wdjKvyq82C5IHS2pdUQxg/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="MOVIES",HBO SIGN HD
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE0RoN4HKaU0sOFHBWLwON1Y/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="MOVIES",HBO HITS HD
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE62bgn-0bC13sOoyse28W1c/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="MOVIES",HBO FAMILY HD
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE3dfrmXHB_GnoJbOIBT6aP0/m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="MOVIES",CINEMAX HD
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE0HkPUCiFxvKADWUVlVRvZw/m3u8
 
 ############################
 ######----HBO CUBMU----#####
@@ -876,8 +838,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/jowo_channel.png" group-title="DAERAH",JOWO CHANNEL
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE2xc6fc_mbu_Jg3_XsFznEs/m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/pktv.png" tvg-name="NET" group-title="DAERAH",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
@@ -1483,17 +1443,9 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-===================================RCTI===============================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="🇮🇩 | SPORTS ID", 01.RCTI🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BEyYXZaWZQHFNBsEjSk1zbao/m3u8
+
 ======================================INDOSIAR============================================
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="🇮🇩 | SPORTS ID", INDOSIAR DIGI1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/play/_PqydO-DFbuR1byQFl3BE5RPUmclP2uMbaSURNOyDn0/m3u8
 
 #EXTGRP:🇮🇩 | SPORTS ID
 #EXTINF:0 tvg-id="indosiar.id" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png",Indosiar (Vidio)
