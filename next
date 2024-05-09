@@ -37,13 +37,13 @@ https://liveaneviadev.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 =================================TRANS TV=====================================================
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-m.png" group-title="NATIONAL",08. TRANS TV🇮🇩
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title="NATIONAL",08. TRANS TV🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 https://liveaneviadev.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="NATIONAL" group-logo="" tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-m.png", 08. TRANS TV🇮🇩
+#EXTINF:-1 group-title="NATIONAL" group-logo="" tvg-logo="https://hometv.pw/logo/lokal2/transtv.png", 08. TRANS TV🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -150,7 +150,7 @@ https://liveaneviadev.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBa
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://i.ibb.co/VvpjRZ8/bertasatu.jpg",BeritaSatu
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png",BeritaSatu
 https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 =========================================METRO TV=========================================
@@ -1378,7 +1378,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="SPORT LOKAL",MOJI VD
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="EMTEK GROUP",MOJI VD
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
 https://4d3m.000webhostapp.com/pakai_saja_satumat/adem_vidiot.m3u8?id=206
@@ -1402,7 +1403,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 =======================================================================================================================================================
 
 ########################################################################## SSC ##################################################################
-#EXTINF:-1 group-title="SPORTS tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
@@ -1419,7 +1420,7 @@ https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
  
  
-#EXTINF:-1 group-title="SPORTS tvg-id="SSC 4" tvg-logo="https://i.ibb.co/KFn4pR0/Untitled-1-33.png", SSC 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 4" tvg-logo="https://i.ibb.co/KFn4pR0/Untitled-1-33.png", SSC 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
