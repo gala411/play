@@ -1378,11 +1378,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="EMTEK GROUP",MOJI VD
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://4d3m.000webhostapp.com/pakai_saja_satumat/adem_vidiot.m3u8?id=206
 ======================================Bein============================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1627,36 +1622,3 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/23931
 #EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroar.png" ,MY| ASTRO ARENA BOLA 2 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/23930
 
-//================================BEIN SPORTS========================================
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 1 Auto reso
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 2 Auto reso
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://rancak.cikgusuraya.workers.dev/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 3 Auto reso
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://rancak.cikgusuraya.workers.dev/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 4 Auto reso
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://rancak.cikgusuraya.workers.dev/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 5" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 5 Auto reso
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://rancak.cikgusuraya.workers.dev/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 6" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 6 Auto reso
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://rancak.cikgusuraya.workers.dev/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 7" tvg-logo="https://hometv.pw/logo/sports/ais_bein.png" group-title="SPORTS",beIN 7 Auto reso
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://rancak.cikgusuraya.workers.dev/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
