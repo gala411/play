@@ -1,10 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
- 
-############################################################################################################################################################
-##########################################################       🇮🇩 Nasional                ##############################################################
-############################################################################################################################################################
-
-===================================RCTI===============================================
 
 ===================================RCTI===============================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="NATIONAL", 01.RCTI🇮🇩
@@ -55,7 +48,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 ====================================NET TV==============================================
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="NATIONAL", NET. HDðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="NATIONAL", NETV🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 ====================================RTV==============================================
@@ -717,7 +710,7 @@ https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiD
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO
-https://servicebuss.transvision.co.id/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/1
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -727,7 +720,7 @@ https://servicebuss.transvision.co.id/live/master/4/4028c6856b6088c3016b87d64b97
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO 
 #EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/2
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -737,7 +730,7 @@ https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d054fbf67
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO 
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/4
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -747,7 +740,7 @@ https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d055927fe
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO 
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/3
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -757,7 +750,7 @@ https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO 
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax
-https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/5
 //========================================================================
 
 ----------------------DAERAH---------------------------------
@@ -895,7 +888,6 @@ https://liveaneviadev.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://batamtv.com/wp-content/uploads/2021/06/logo-btv.png" group-title="DAERAH",Batam TV
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
-===================================ChannelMusic TV=======================================================================
 
 
 ===================================Channel IndiTV=======================================================================
@@ -1253,7 +1245,8 @@ https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/32
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/billiardtv.png" group-title="SPORT LOKAL",BILLIARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="SPORT LOKAL",TRANS 7
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/6
 =======================================================================================================================================================
 ########################################################################## SSC ##################################################################
 #EXTINF:-1 group-title="SSC" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
