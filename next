@@ -1603,30 +1603,6 @@ http://iptvkita.my.id:25461/direct/hometv/1831
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1832
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",RMC SPORTS 1
-http://iptvkita.my.id:25461/direct/hometv/1833
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",RMC SPORTS 2
-http://iptvkita.my.id:25461/direct/hometv/1834
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",RMC SPORTS 3
-http://iptvkita.my.id:25461/direct/hometv/1835
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",RMC SPORTS 4
-http://iptvkita.my.id:25461/direct/hometv/1836
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",RMC SPORTS 5
-http://iptvkita.my.id:25461/direct/hometv/1837
-
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Tennis" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport
-http://iptvkita.my.id:25461/direct/hometv/2041
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Voetball" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Voetball
-http://iptvkita.my.id:25461/direct/hometv/2043
-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SELECT" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",ZIGGO Select
-http://iptvkita.my.id:25461/direct/hometv/2044
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Racing" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Racing
-#http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/4482
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Golf" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Golf
-http://iptvkita.my.id:25461/direct/hometv/2045
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo docu" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Tennis
-http://iptvkita.my.id:25461/direct/hometv/2042
-
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
