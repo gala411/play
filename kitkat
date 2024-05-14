@@ -20,7 +20,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png" group-title="NASIONAL",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="NASIONAL",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-reverer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -37,14 +37,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/cnbc_indonesia.jpg" group-title="NASIONAL",CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="NASIONAL",TRANS 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/trans7.jpg" group-title="NASIONAL",TRANS 7 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title="NASIONAL",TRANS TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/transtv.png" group-title="NASIONAL",TRANS TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -52,42 +52,42 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title="NASIONAL",RCTI HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/rcti.png" group-title="NASIONAL",RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title="NASIONAL",MNC TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/mnctv.png" group-title="NASIONAL",MNC TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title="NASIONAL",GTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/gtv.png" group-title="NASIONAL",GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title="NASIONAL",iNEWS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/inews.png" group-title="NASIONAL",iNEWS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title="NASIONAL",TV ONE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/tvone.png" group-title="NASIONAL",TV ONE HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/antv.png" group-title="NASIONAL",ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/antv.png" group-title="NASIONAL",ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -95,21 +95,21 @@ https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title="NASIONAL",METRO TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/metrotv.png" group-title="NASIONAL",METRO TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title="NASIONAL",KOMPAS TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/kompastv.png" group-title="NASIONAL",KOMPAS TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title="NASIONAL",RTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/rtv.png" group-title="NASIONAL",RTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -117,21 +117,21 @@ https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png" group-title="NASIONAL",BERITA SATU HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/beritasatu.png" group-title="NASIONAL",BERITA SATU HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sindo_news.png" group-title="NASIONAL",SINDO NEWS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/sindo_news.png" group-title="NASIONAL",SINDO NEWS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/daaitv.png" group-title="NASIONAL",DAAI TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/daaitv.png" group-title="NASIONAL",DAAI TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -320,28 +320,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 1B
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 1C
-http://iptvtree.net:8080/c4596f70/c3848d92/298526
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 2C
-http://iptvtree.net:8080/c4596f70/c3848d92/298527
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 3B
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 3C
-http://iptvtree.net:8080/c4596f70/c3848d92/298528
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 4B
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
-
-#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 4C
-http://iptvtree.net:8080/c4596f70/c3848d92/298529
-
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="mycinemaeurope.id" tvg-logo="https://iptv.urfan.web.id/logo/mce.png",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -644,3 +622,73 @@ https://melon-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 https://melon-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
+#############################__MY_SPORT_🇮🇩_________________________^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/sportstars.png" group-title="MY_SPORT_🇮🇩",SPORTSTARS 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/sportstars.png" group-title="MY_SPORT_🇮🇩",SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/sportstars.png" group-title="MY_SPORT_🇮🇩",SPORTSTARS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MOJI.jpg" group-title="MY_SPORT_🇮🇩",MOJI HD
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/117
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MOJI.jpg" group-title="MY_SPORT_🇮🇩",MOJI HD
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/117
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/trans7.jpg" group-title="MY_SPORT_🇮🇩",TRANS 7 HD
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="MY_SPORT_🇮🇩",INDOSIAR HD
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/rcti.png" group-title="MY_SPORT_🇮🇩",RCTI HD
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/inews.png" group-title="MY_SPORT_🇮🇩",iNEWS HD
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MOJI.jpg" group-title="MY_SPORT_🇮🇩",SPORTSTARS 4 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/soccer_channel.png" group-title="MY_SPORT_🇮🇩",SOCCER CHANNEL 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/spotv1.png" group-title="MY_SPORT_🇮🇩",SPO TV 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/spotv2.png" group-title="MY_SPORT_🇮🇩",SPO TV 2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/bein_id.png" group-title="MY_SPORT_🇮🇩",beIN Sports 1 ID
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/139
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/bein_id.png" group-title="MY_SPORT_🇮🇩",beIN Sports 3 ID
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/140
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/TVRI_SPORT.png" group-title="MY_SPORT_🇮🇩",TVRI SPORT HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/fight_sports.png" group-title="MY_SPORT_🇮🇩",FIGHT SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
