@@ -1299,7 +1299,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 ======================================Fight Sports============================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/fight_sports.png" group-title="SPORT LOKAL",FIGHT SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1314,14 +1314,19 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-id="Indosiar" group-title="SPORT LOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" ,INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" ,INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 ===============================================================TVRI Sport===================================
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/TVRI_SPORT.png" group-title="SPORT LOKAL",TVRI SPORT HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 ======================================MOJI============================================
-#EXTINF:-1 tvg-id="MOJI" group-title="SPORT LOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" ,Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" ,Moji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 ======================================Bein============================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1376,7 +1381,6 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
  
- 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 2" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/SSC.jpg", SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
@@ -1386,7 +1390,6 @@ https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
- 
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 4" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/SSC.jpg", SSC 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1538,35 +1541,32 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=
                            ========== SPORTS =========
                            ############################
 
-########################################################     Sony Sports    ########################################################
-
-
 
 ########################################################     TSN Sports    ########################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" group-title="SPORTS", TSN 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="tsnsport" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" ,TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" group-title="SPORTS", TSN 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="tsnsport" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" ,TSN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" group-title="SPORTS", TSN 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="tsnsport" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" ,TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" group-title="SPORTS", TSN 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="tsnsport" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" ,TSN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://117tv.icu:8080/live/X5xRz0/944877/47446.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" group-title="SPORTS", TSN 5
+#EXTINF:-1 group-title="SPORTS" tvg-id="tsnsport" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TSN.jpg" ,TSN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/Fifa%2B.jpg" group-title="SPORTS", Fifa+
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
@@ -1605,7 +1605,7 @@ http://iptvkita.my.id:25461/direct/hometv/1832
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/tnt_sports2.png" group-title="SPORTS",TNT 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1631,33 +1631,45 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="sonySports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
-#EXTINF:-1 tvg-id="sonySports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
-#EXTINF:-1 tvg-id="sonySports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
-#EXTINF:-1 tvg-id="sonySports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
-#EXTINF:-1 tvg-id="sonySports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SONYSPORTS.png" ,SONY SPORTS TEN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
-#EXTINF:-1 tvg-id="rmcSports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="rmcsport" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://iptvkita.my.id:25461/direct/hometv/1833
-#EXTINF:-1 tvg-id="rmcSports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="rmcsport" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://iptvkita.my.id:25461/direct/hometv/1834
-#EXTINF:-1 tvg-id="rmcSports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="rmcsport" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://iptvkita.my.id:25461/direct/hometv/1835
-#EXTINF:-1 tvg-id="rmcSports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="rmcsport" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://iptvkita.my.id:25461/direct/hometv/1836
-#EXTINF:-1 tvg-id="rmcSports.uk" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-id="rmcsport" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/RMCSPORTS.png" ,RMC SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://iptvkita.my.id:25461/direct/hometv/1837
+
+
