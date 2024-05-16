@@ -726,7 +726,7 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/DHOHOTV.jpg" group-title="DAERAH",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/padang_tv.png" group-title="DAERAH",Padang TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/PadangTV.png" group-title="DAERAH",Padang TV
 http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -735,16 +735,13 @@ http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/JakTV.jpg",Jak TV
 https://liveaneviadev.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://hometv.pw/logo/tv_daerah2/inspiratv.png" group-title="DAERAH",Inspira TV
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/Inspirasi.png" group-title="DAERAH",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://hometv.pw/logo/tv_daerah2/jitv.png" group-title="DAERAH",Jogja Istimewa TV 
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NusantaraTV.jpg",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/tabalong.png" group-title="DAERAH",TV TABALONG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/TABALONG.png" group-title="DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
 
 
@@ -753,7 +750,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="" group-title="DAERAH" tvg-logo="https://hometv.pw/logo/tv_daerah/jtv.png",JTV
+#EXTINF:-1 tvg-id="" group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/JTV.png",JTV
 https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 ----------------------------------------------------------------------------------------
 
@@ -763,16 +760,16 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/BantenTV.jpg" group-title="DAERAH",Banten TV 
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://hometv.pw/logo/tv_daerah2/btv.png" group-title="DAERAH",Balikapan TV 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/Balikapan.png" group-title="DAERAH",Balikapan TV 
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/SurabayaTV.jpg",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/tv_daerah2/garudatv.png" group-title="DAERAH",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/GarudaTV.png" group-title="DAERAH",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://hometv.pw/logo/tv_daerah2/saktitv.png",Sakti TV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SaktiTV.png",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TimorTV.jpg" group-title="DAERAH",Timor TV
@@ -785,7 +782,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/tv_daerah2/kawanua.png" group-title="DAERAH",Kawanua TV
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/Kawanua.png" group-title="DAERAH",Kawanua TV
 https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -809,29 +806,20 @@ https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.
 #EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/PJTV.jpg" group-title="DAERAH",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/tv_daerah2/jambitv.png" group-title="DAERAH",Jambi TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
-
 #EXTINF:-1 group-title="DAERAH"tvg-id="NasionalTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NasionalTV.jpg",Nasional TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/pktv.png" tvg-name="NET" group-title="DAERAH",PKTV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/duta.png" tvg-name="" group-title="DAERAH",DUTA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/DUTATV.png" tvg-name="" group-title="DAERAH",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/tv_daerah2/simpang5.png" group-title="DAERAH",SIMPANG 5 TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SIMPANG%205.png" group-title="DAERAH",SIMPANG 5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 
 ===========================================BaliTV===============================================
  
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/bali_tv.png" group-title="DAERAH", BALI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/BaliTV_2014.png" group-title="DAERAH", BALI TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
@@ -1119,14 +1107,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 //copy right by,@hometv menampilkan playlist >>> 👫 KIDS ENGLISH
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/mykidz.png" group-title="👫 KIDS ENG",MY KIDZ Auto Reso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MYKIDZ.png" group-title="👫 KIDS ENG",MY KIDZ Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/cbeebies.png" group-title="👫 KIDS ENG",CBEEBIES Auto Reso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/KIDSENGCBEEBIES.png" group-title="👫 KIDS ENG",CBEEBIES Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1134,28 +1122,28 @@ https://melon-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 https://melon-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/nickelodeon.png" group-title="👫 KIDS ENG",NICKELODEON Auto Reso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/NICKELODEON.png" group-title="👫 KIDS ENG",NICKELODEON Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="👫 KIDS ENG" tvg-logo="https://hometv.pw/logo/kids2/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
+#EXTINF:-1 group-title="👫 KIDS ENG" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/zoomoo.png" group-title="👫 KIDS ENG",ZOO MOO Auto Reso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/ZOOMOO.png" group-title="👫 KIDS ENG",ZOO MOO Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/animax.png" group-title="👫 KIDS ENG",ANIMAX Auto Reso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/ANIMAX.png" group-title="👫 KIDS ENG",ANIMAX Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1163,7 +1151,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/babytv.png" group-title="👫 KIDS ENG",BABY TV Auto Reso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/BABYTV.png" group-title="👫 KIDS ENG",BABY TV Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1324,7 +1312,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 ======================================MOJI============================================
-#EXTINF:-1 group-title="SPORTS" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" ,Moji
+#EXTINF:-1 group-title="SPORT LOKAL" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" ,Moji
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
@@ -1339,7 +1327,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF : group-title="SPORT LOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/BEIN3.jpg",Bein 3
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/billiardtv.png" group-title="SPORT LOKAL",BILLIARD TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/BILLIARD%20_TV.png" group-title="SPORT LOKAL",BILLIARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 =======================================================================================================================================================
 
