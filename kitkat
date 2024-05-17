@@ -644,18 +644,6 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MOJI.jpg" group-title="MY_SPORT_🇮🇩",MOJI HD
-https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/117
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MOJI.jpg" group-title="MY_SPORT_🇮🇩",MOJI HD
-https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/117
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/trans7.jpg" group-title="MY_SPORT_🇮🇩",TRANS 7 HD
-https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="MY_SPORT_🇮🇩",INDOSIAR HD
-https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/rcti.png" group-title="MY_SPORT_🇮🇩",RCTI HD
-https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/inews.png" group-title="MY_SPORT_🇮🇩",iNEWS HD
-https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/MOJI.jpg" group-title="MY_SPORT_🇮🇩",SPORTSTARS 4 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
