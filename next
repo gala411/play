@@ -1125,7 +1125,7 @@ http://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/onplus.png",ON Plus 10
 http://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SUKAN.png" group-title="Malaysia",Sukan RTM
+#EXTINF:-1 tvg-id="Sukan" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SUKAN.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/motorracing.png", Motor Racing
@@ -1185,6 +1185,10 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/tv360.png" ,TV 360
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+
 
 #-*--VTV-*--#
 
@@ -1254,5 +1258,52 @@ http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpo
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 #https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
+KOREA TV
+#EXTINF:-1 group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ktv.png" ,KOREA TV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w353580429.m3u8
+#EXTINF:-1 group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png" ,EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/ebs.png", EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/mbc.png", MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/TVN.png" group-title="Korean Channels",TVN
+https://testfunctionlive.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvn_movie.png" group-title="Korean Channels",TvN movies HD
+https://testfunctionlive.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Korean Channels" tvg-id="SONE" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/one.png",ONE
+https://testfunctionlive.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/K%2B.png" group-title="Korean Channels",K+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?app_type=web&userid=lite&chname=K+
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/kbsworldtv.png" group-title="Korean Channels",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="Korean Channels" tvg-id="nadoo.sg" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/NaDooKorean.png",NaDoo Korean 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/gem.png",GEM
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest.mpd
 =======================LIVE EVENT===========================================
