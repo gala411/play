@@ -69,7 +69,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="NATIONAL", 09.INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/indosiar.m3u8
 ====================================SCTV==============================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SCTV.jpg" group-title="NATIONAL",10.SCTV
@@ -866,7 +866,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="SPORT LOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png", Moji (vidio)
-#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="SPORT LOKAL", MOJI
@@ -876,20 +876,15 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
 #http://37.49.225.197:8080/F31068/8fd17683/298550
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="SPORT LOKAL", MOJI HD
-http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/moji5.m3u8
 
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="SPORT LOKAL",LIGA BRI VD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://210.210.155.35/uq2663/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="SPORT LOKAL", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:-1 group-title="SPORT LOKAL" tvg-id="psjtv.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/psjtv.png",PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/PSJ%20TV.m3u8
 =======================================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1434,4 +1429,7 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF : group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/gem.png",GEM
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/sbs.png" group-title="Korean Channels", SBS TV
+http://1.245.74.5:1935/live/tv/.m3u8
 =======================LIVE EVENT===========================================
