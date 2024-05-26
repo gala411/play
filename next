@@ -611,6 +611,16 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 
+#EXTINF:0 tvg-id="PalembangTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/paltv.png" group-title="DAERAH",PAL TV
+https://v3.siar.us/paltv/live/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="DhammaTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/DhammaTV.png" group-title="DAERAH",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+
+#EXTINF:0 tvg-id="PujaTVAceh.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/Puja.png" group-title="DAERAH",Puja TV Aceh 
+https://v6.siar.us/pujatv/live/chunks.m3u8
 ===========================================BaliTV===============================================
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/BaliTV_2014.png" group-title="DAERAH", BALI TV
@@ -853,16 +863,21 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/BILLIARD%20_TV.png" group-title="SPORT LOKAL",BILLIARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="SPORT LOKAL", MOJI 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="SPORT LOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png", Moji (vidio)
+#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="SPORT LOKAL", MOJI
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
-https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
+#http://37.49.225.197:8080/F31068/8fd17683/298550
+
+#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="SPORT LOKAL", MOJI HD
+http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="SPORT LOKAL",LIGA BRI VD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -872,6 +887,9 @@ http://210.210.155.35/uq2663/h/h207/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="SPORT LOKAL", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 group-title="SPORT LOKAL" tvg-id="psjtv.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/psjtv.png",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 =======================================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1207,9 +1225,6 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/tv360.png" ,TV 360
-http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
