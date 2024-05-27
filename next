@@ -870,9 +870,9 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
 #http://37.49.225.197:8080/F31068/8fd17683/298550
 
-#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="SPORT LOKAL", MOJI HD
-https://raw.githubusercontent.com/gala411/toettoet/main/moji5.m3u8
-#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORT LOKAL",MOJI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s.id/mojiHD_shareext-xs
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/indosiar.png" group-title="SPORT LOKAL", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
@@ -1428,11 +1428,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/sbs.png" group-title="Korean Channels", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 =======================LIVE BIOSKOP===========================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/bioskop.png" group-title="LIVE BIOSKOP",Bioskop Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/nonton.png" group-title="LIVE BIOSKOP",Bioskop Action
 https://raw.githubusercontent.com/gala411/toettoet/main/action.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/bioskop.png" group-title="LIVE BIOSKOP",Bioskop Horor
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/nonton.png" group-title="LIVE BIOSKOP",Bioskop Horor
 https://raw.githubusercontent.com/gala411/toettoet/main/horor.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/bioskop.png" group-title="LIVE BIOSKOP",Bioskop Mandarin
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/nonton.png" group-title="LIVE BIOSKOP",Bioskop Mandarin
 https://raw.githubusercontent.com/gala411/toettoet/main/mandarin.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/bioskop.png" group-title="LIVE BIOSKOP",Bioskop Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/nonton.png" group-title="LIVE BIOSKOP",Bioskop Comedy
 https://raw.githubusercontent.com/gala411/toettoet/main/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/nonton.png" group-title="LIVE BIOSKOP",Bioskop Indonesia
+https://raw.githubusercontent.com/gala411/toettoet/main/indonesia.m3u8
