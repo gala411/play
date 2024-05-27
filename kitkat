@@ -828,26 +828,10 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 #EXTINF:-1 group-title="MY_SPORT_🇮🇩" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png",MOJI 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/moji5.m3u8
+
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/moji.png" group-title="MY_SPORT_🇮🇩",MOJI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s.id/mojiHD_shareext-xs
 
 
-
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc1.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc2.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 3
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc3.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 4
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc4.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 5
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 6
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc6.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 7
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc7.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 8
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc8.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="🇮🇩LIVE VOLLY VNL🇮🇩", LIVE 9
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc9.m3u8
