@@ -196,7 +196,9 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 group-title="SPORTLOKAL" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" ,Moji
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://raw.githubusercontent.com/gala411/toettoet/main/moji5.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/mojee.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="SPORTLOKAL",iNEWS HD
+https://raw.githubusercontent.com/gala411/toettoet/main/INEWS.m3u8
 
 
 
