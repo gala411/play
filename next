@@ -135,16 +135,16 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/6
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="SPORTLOKAL",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/9721
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/9721.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" group-title="SPORTLOKAL",RCTI 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/10
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png" group-title="SPORTLOKAL",SPORTSTARS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
@@ -199,13 +199,40 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://raw.githubusercontent.com/gala411/toettoet/main/mojee.m3u8
-https://s.id/mojiHD_shareext-xs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="SPORTLOKAL",iNEWS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://raw.githubusercontent.com/gala411/toettoet/main/INEWS.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png" group-title="SPORTLOKAL",beIN Sports 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/139.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png" group-title="SPORTLOKAL",beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/139.m3u8
+
+
+/////////////////////LIVE MOVIE???????????????????????
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA",Action 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/123.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA",China
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/124.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA",Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/126.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA", Horror
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/61.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA", Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/62,m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA", Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+
 
 
 ///////////////////////MOVIE by.mamamuda//////////////////////
