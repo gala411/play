@@ -100,22 +100,19 @@ https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 =========================================INEWS=========================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="🇮🇩 LOKAL ID 🇮🇩",17.iNEWS Auto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="🇮🇩 LOKAL ID 🇮🇩",17.iNEWS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-=========================================Jawa Pos TV=========================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/jawapos.png" group-title="🇮🇩 LOKAL ID 🇮🇩",18.Jawa Pos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 =========================================TV Desa=========================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mytvdesa.png",19.TV Desa
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mytvdesa.png",18.TV Desa
 https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
 ========================================CNN Indonesia=========================================
-#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cnn_indonesia.png",CNN Indonesia
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cnn_indonesia.png",19.CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 ========================================CNBC INDONESIA=========================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cnbc_indonesia.png" group-title="🇮🇩 LOKAL ID 🇮🇩",20.CNBC INDONESIA
@@ -125,15 +122,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="" group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="o",21.IDX Channel
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/IDXChannel.png",21.IDX Channel
 https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|user-agent=okhttp/4.10.0?network_id=www.visionplus.id/ 
 ------------------------------------------------Liputan 6----------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/Liputan6.png" group-title="🇮🇩 LOKAL ID 🇮🇩",22.Liputan 6
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
-------------------------------------------------DAAI TV----------------------------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/daaitv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",DAAI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=18c43281c6334b3eabbad9cf8cbdcc1c:cf9813740819d0163f64193243090a66
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
+
