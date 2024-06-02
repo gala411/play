@@ -129,28 +129,6 @@ https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|user-agent=okh
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
 
-======================================================================================
-
-/////////////////////LIVE MOVIE???????????????????????
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA",Action 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://stream.hownetwork.xyz/xxx/knox-goes-away-2024-bluray_X_79919b3f.480/22/480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA",China
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://stream.hownetwork.xyz/xxx/snake-skin-beauty-2024-webdl_X_3164714d/21/480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA",Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/126.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA", Horror
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://stream.hownetwork.xyz/xxx/tarot-2024-webdl_X_6b2ac293/22/480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cinema.png" group-title="LIVE CINEMA", Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-
 ///////////////////////MOVIE by.mamamuda//////////////////////
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
