@@ -207,10 +207,10 @@ https://raw.githubusercontent.com/gala411/toettoet/main/mojee.m3u8
 https://raw.githubusercontent.com/gala411/toettoet/main/INEWS.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png" group-title="SPORTLOKAL",beIN Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/139.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png" group-title="SPORTLOKAL",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/139.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 
 /////////////////////LIVE MOVIE???????????????????????
@@ -469,80 +469,80 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem_dash/manifest.mpd
 //========================================================================
 
 ----------------------DAERAH---------------------------------
-#EXTINF:-1 tvg-id="LINGKARTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/LINGKARTV.jpg" group-title="DAERAH",LINGKAR TV
+#EXTINF:-1 tvg-id="LINGKARTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/lingkartv.png" group-title="DAERAH",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/madu.jpg" group-title="DAERAH",Madu TV 
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/madutv.png" group-title="DAERAH",Madu TV 
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image/main/DHOHOTV.jpg" group-title="DAERAH",DHOHO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/DhohoTV.png" group-title="DAERAH",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/PadangTV.png" group-title="DAERAH",Padang TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/padang_tv.png" group-title="DAERAH",Padang TV
 http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/JakTV.jpg",Jak TV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/jaktv.png",Jak TV
 https://liveaneviadev.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/Inspirasi.png" group-title="DAERAH",Inspira TV
+#EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/inspiratv.png" group-title="DAERAH",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NusantaraTV.jpg",Nusantara TV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/NusantaraTv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/TABALONG.png" group-title="DAERAH",TV TABALONG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/tabalong.png" group-title="DAERAH",TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
 ------------------------------------JTV------------------------------------------------
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="" group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/JTV.png",JTV
+#EXTINF:-1 tvg-id="" group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/jtv.png",JTV
 https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 ----------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/KilisuciTVKediri.jpg",Kilisuci TV Kediri
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/kstv.png",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/BantenTV.jpg" group-title="DAERAH",Banten TV 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/BantenTV.png" group-title="DAERAH",Banten TV 
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/Balikapan.png" group-title="DAERAH",Balikapan TV 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/BalikapanTV.png" group-title="DAERAH",Balikapan TV 
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/SurabayaTV.jpg",Surabaya TV
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/Surabaya%20TV.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/GarudaTV.png" group-title="DAERAH",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/garudatv.png" group-title="DAERAH",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SaktiTV.png",Sakti TV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/saktitv.png",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/TimorTV.jpg" group-title="DAERAH",Timor TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/TimorTV.png" group-title="DAERAH",Timor TV
 https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/SambasTV.jpg" group-title="DAERAH",Sambas TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/SambasTV.png" group-title="DAERAH",Sambas TV
 https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/BungoTV.jpg" group-title="DAERAH",Bungo TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/Bungo.png" group-title="DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/Kawanua.png" group-title="DAERAH",Kawanua TV
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/kawanua.png" group-title="DAERAH",Kawanua TV
 https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/AtambuaTV.jpg" group-title="DAERAH",Atambua TV
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/Atambua.png" group-title="DAERAH",Atambua TV
 https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/PONTV.jpg" group-title="DAERAH",PONTV
+#EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/PONTV.png" group-title="DAERAH",PONTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NatunaTV.jpg" group-title="DAERAH",Natuna TV
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/Natuna.png" group-title="DAERAH",Natuna TV
 https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/PJTV.jpg" group-title="DAERAH",PJTV Bandung
+#EXTINF:-1 tvg-id="https://bit.ly/JejeVisionEPG" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/PJTV%20Bandung.png" group-title="DAERAH",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
-#EXTINF:-1 group-title="DAERAH"tvg-id="NasionalTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/NasionalTV.jpg",Nasional TV 
+#EXTINF:-1 group-title="DAERAH"tvg-id="NasionalTV.id" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/NasionalTV.png",Nasional TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://wow.nasionaltv.com/ntvlive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/DUTATV.png" tvg-name="" group-title="DAERAH",DUTA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/DUTATV.png" tvg-name="" group-title="DAERAH",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/SIMPANG%205.png" group-title="DAERAH",SIMPANG 5 TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/simpang5.png" group-title="DAERAH",SIMPANG 5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 ===========================================BaliTV===============================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/BaliTV_2014.png" group-title="DAERAH", BALI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/daerah.png/main/bali_tv.png" group-title="DAERAH", BALI TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
@@ -571,25 +571,25 @@ https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12106.m3u8
 ==========================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12114.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12115.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1827
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12116.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12117.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12118.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1830
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12119.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/bein_ar.png" group-title="🇸🇦 | beIN SPORTS AR",BEIN SPORTS 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/12120.m3u8
+http://iptvkita.my.id:25461/direct/hometv/1832
 =======================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -651,3 +651,24 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+----------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SONYSPORTSTEN.png" ,SONY SPORTS TEN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SONYSPORTSTEN.png" ,SONY SPORTS TEN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SONYSPORTSTEN.png" ,SONY SPORTS TEN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SONYSPORTSTEN.png" ,SONY SPORTS TEN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SONYSPORTSTEN.png" ,SONY SPORTS TEN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
