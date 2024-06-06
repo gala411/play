@@ -32,6 +32,7 @@ http://103.226.232.196:8000/play/a016/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/timnas3.m3u8
+http://mykingtv.net:2082/live/Bae810/ktv9399/5144.ts
 ===================================MNCTV===============================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mnctv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",04.MNC TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
