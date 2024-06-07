@@ -84,6 +84,75 @@ https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/glory.png" group-title="FIGHT",GLORY KICKBOXING 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://i.ytimg.com/vi/C9-53kuIGjI/sddefault.jpg" group-title="FIGHT",WWE 
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/wwe_network_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="FIGHT" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mJ69XIJa3C7qOaS8Jpb2bd7e98T6q9lwZKsm2Jkn0GB54=s900-c-k-c0x00ffffff-no-rj", MATCH! FIGHT 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
+https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="FIGHT", Fight
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+=====================================================================================
+
+########QWC2026ASIA#######
+
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/jj24i11700209747.jpg/preview", 06 JUNI 2024 16:00 WIB - INDONESIA VS IRAQ
+https://www.dropbox.com/scl/fi/ctu8zaqyalr1yai61v2k3/Picsart_24-05-29_23-15-24-048.mp4?rlkey=fidswkv15faj9t7p41zv1nwks&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/zibujq1694245561.jpg/preview", 07 JUNI 2024 00:30 WIB - PALESTINE VS LEBANON
+https://www.dropbox.com/scl/fi/s7nc1djtehuar2fogquxh/jio-azel_Full-HD-1080p.mp4?rlkey=eink1x5pwasl3vohaqyhstgr6&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/xpazpr1700209756.jpg/preview", 06 JUNI 2024 19:00 WIB - SINGAPORE VS SOUTH KOREA
+https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8503zg1700209738.jpg/preview", 06 JUNI 2024 23:00 WIB - AFGHANISTAN VS QATAR
+https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/h01l1y1700209740.jpg/preview", 06 JUNI 2024 19:00 WIB - MYANMAR VS JAPAN
+https://www.dropbox.com/scl/fi/zqpq6xw0ekohtp7ze3lmo/VID20240410080804.mp4?rlkey=n0jwhuljbji7f47ab8qj52vd9&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/kol31k1700209741.jpg/preview", 06 JUNI 2024 18:00 WIB - CHINESE TAIPEI VS OMAN
+https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ky6cr01700209743.jpg/preview", 06 JUNI 2024 19:00 WIB - HONGKONG VS IRAN
+https://www.dropbox.com/scl/fi/7l2hbht3eihne5h59qswz/Picsart_24-05-29_22-15-39-248.mp4?rlkey=x0pq7kldpkuvd9005lilygr7v&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/kcfv6x1700209748.jpg/preview", 06 JUNI 2024 22:30 WIB - PAKISTAN VS SAUDI ARABIA
+https://www.dropbox.com/scl/fi/ghy2ute9af4hvd5e2sq1c/Picsart_24-05-29_22-18-48-776.mp4?rlkey=ly2062ys1077kiatdrc5ivltj&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/e8p2qm1700209750.jpg/preview", 06 JUNI 2024 23:00 WIB - NEPAL VS UNITED ARAB
+https://www.dropbox.com/scl/fi/ghy2ute9af4hvd5e2sq1c/Picsart_24-05-29_22-18-48-776.mp4?rlkey=ly2062ys1077kiatdrc5ivltj&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/j6ftz91694245491.jpg/preview", 06 JUNI 2024 20:00 WIB - NORTH KOREA VS SYRIA
+https://www.dropbox.com/scl/fi/ghy2ute9af4hvd5e2sq1c/Picsart_24-05-29_22-18-48-776.mp4?rlkey=ly2062ys1077kiatdrc5ivltj&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hwyifb1700209752.jpg/preview", 06 JUNI 2024 23:00 WIB - BAHRAIN VS YEMEN
+https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/kb9c121700209754.jpg/preview", 06 JUNI 2024 17:30 WIB - BANGLADESH VS AUSTRALIA
+https://www.dropbox.com/scl/fi/h46bwlufad4shjwnzld4y/Picsart_24-05-29_22-21-57-604.mp4?rlkey=u8zisjkmrni0lexekaqhf9og4&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/faeuhd1694245550.jpg/preview", 06 JUNI 2024 19:00 WIB - CHINA VS THAILAND
+https://www.dropbox.com/scl/fi/vby7n964nhj9r9ldtm6r3/Picsart_24-05-29_22-27-58-481.mp4?rlkey=jkt13knpq11y8ircfufsutuqm&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/afmk7j1694245551.jpg/preview", 06 JUNI 2024 20:00 WIB - INDIA VS KUWAIT
+https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/thmpvt1694245555.jpg/preview", 06 JUNI 2024 22:00 WIB - KYRGYZSTAN VS MALAYSIA
+https://www.dropbox.com/scl/fi/84btweiw8266x7ezk88gk/Picsart_24-05-29_22-33-15-756.mp4?rlkey=r091zszi6cld5asqhux08ox3q&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/tgow521694245556.jpg/preview", 06 JUNI 2024 21:00 WIB - UZBEKISTAN VS TURKMENISTAN
+https://www.dropbox.com/scl/fi/dhjsho9nhluguextk3y6h/Videoleap_2024_05_31_11_25_56_811.mp4?rlkey=o524u3y8itb4h0dqvbh8v1lm0&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rnhz0l1694245558.jpg/preview", 06 JUNI 2024 19:00 WIB - VIETNAM VS FILIPINA
+https://www.dropbox.com/scl/fi/s7nc1djtehuar2fogquxh/jio-azel_Full-HD-1080p.mp4?rlkey=eink1x5pwasl3vohaqyhstgr6&dl=1
+
+#EXTINF:-1 group-title="🟢 QWC-2026 ASIA" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/52lbgz1694245560.jpg/preview", 07 JUNI 2024 00:30 WIB - JORDAN VS TAJIKISTAN
+https://www.dropbox.com/scl/fi/if4dv0ehghusmkdc7t6l3/Picsart_24-05-29_22-42-33-193.mp4?rlkey=i1i8m3p3fisnzgcsyc0836b0l&dl=1
 
 ==================================================================================
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
