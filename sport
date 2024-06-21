@@ -1,4 +1,13 @@
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/jowo_channel.png" group-title="PatokTv",JOWO CHANNEL
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/111
+
 ##################################SPORT LOKAL====================================
 
 #EXTINF:-1 group-title="SPORTLOKAL" tvg-id="dubaisports3.ae" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/dubai_sport.png",Dubai Sports 3
@@ -30,7 +39,6 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png",Sportstar
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 -------------------------------------------SPORT START 2 ---------------------------------------------------------------
 
@@ -39,7 +47,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png",Sportstar 2
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 ------------------------------------------------SPORT START 3 ----------------------------------------------------------------
 
@@ -48,7 +55,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png",Sportstar 3
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 -------------------------------------------------------SPORT START 4 ------------------------------------------------------------------------------
 
@@ -56,9 +62,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="" group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png ",Sportstar 4
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 tvg-id="" group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png",Sportstar 4
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 -------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/spotv1.png" group-title="SPORTLOKAL",SPO TV 1 
@@ -87,38 +91,53 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" group-title="SPORTLOKAL",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
-https://cors-proxy.elfsight.com/http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
-#EXTINF : group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 1
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF : group-title="Channel IndiTV" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 1
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF : group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 3
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 --------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL |  UEFA 2024",EURO 2024 - 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12586
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="CHANNEL | UEFA 2024",EURO 2024 - 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", LIVE 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", LIVE 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 1 HD
+http://filex.tv:8080/ad007/002790/52083
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 2 HD
+http://filex.tv:8080/ad007/002790/52085
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 3 HD
+http://filex.tv:8080/ad007/002790/52086
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 1 HD
+http://mega4k.one:8080/Hitesh123/Hitesh123/96496
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",TSN 2 HD
+http://mega4k.one:8080/Hitesh123/Hitesh123/96497
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 3 HD
+http://mega4k.one:8080/Hitesh123/Hitesh123/96498
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 4 HD
+http://mega4k.one:8080/Hitesh123/Hitesh123/96499
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",TSN 5 HD
+http://mega4k.one:8080/Hitesh123/Hitesh123/96500
+
 
 =============================================================================================================
 #EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="COPA AMERICA 2024",RPC 
@@ -242,6 +261,51 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/live_sport.png", sport 9
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 1 VIDIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 2 VIDIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=16909&type=drm
+https://srtv.my.id/vd/play.m3u8?id=16909&type=hls
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 3 VIDIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=13558&type=drm
+https://srtv.my.id/vd/play.mpd?id=13558&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri1.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri11.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 6
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 7
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 8
+http://37.49.225.197:8080/F31068/8fd17683/162138
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="🇮🇩BRI LIGA 1🇮🇩", LIVE 9
+http://iptvtree.net:8080/F26646/f950f250/162138
 
 ```````` SPORTS ````````
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="http://x1.cdn.broiptv.com/img/astro_supersport1.png" group-title="SPORTS", Astro Supersport 1
