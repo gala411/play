@@ -516,22 +516,9 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u
 
 -------------------------------------------------------------SPORTLOKAL by.mamamuda------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/trans7.png" group-title="SPORTLOKAL",TRANS 7 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="SPORTLOKAL",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/9721.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" group-title="SPORTLOKAL",RCTI 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png" group-title="SPORTLOKAL",SPORTSTARS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
@@ -585,18 +572,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://raw.githubusercontent.com/gala411/toettoet/main/moji5.m3u8
-#https://s.id/mojiHD_shareext-xs
-https://raw.githubusercontent.com/gala411/toettoet/main/mojee.m3u8
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" group-title="SPORTLOKAL",MOJI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="SPORTLOKAL",iNEWS HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://raw.githubusercontent.com/gala411/toettoet/main/INEWS.m3u8
+https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF : group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 1
