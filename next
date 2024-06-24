@@ -61,6 +61,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sctv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+http://xtv.ooo:8080/65175086/13426218/351030
 -----------------------------------------TVRI -----------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tvri.png" group-title="🇮🇩 LOKAL ID 🇮🇩",11.TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -518,7 +519,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="SPORTLOKAL",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+http://xtv.ooo:8080/65175086/13426218/350972
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png" group-title="SPORTLOKAL",SPORTSTARS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
@@ -573,6 +574,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
+http://xtv.ooo:8080/65175086/13426218/350997
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF : group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 1
@@ -582,6 +584,43 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF : group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 3
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 //========================================================================
+
+---------euro 2024--------------
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/skysports_uk.png" group-title="F1 | MOTOGP ",Sky Sports F1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://play.gachor99.my.id:443/hmtv_lite/ANfbdmaMTR/9798.m3u8
