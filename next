@@ -519,7 +519,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="SPORTLOKAL",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://xtv.ooo:8080/65175086/13426218/350972
+http://xtv.ooo:8080/65175086/13426218/350972.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sportstars.png" group-title="SPORTLOKAL",SPORTSTARS 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
