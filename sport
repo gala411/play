@@ -16,7 +16,7 @@ https://cors-proxy.elfsight.com/http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1621
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+https://cors-proxy.elfsight.com/https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/psjtv.png" group-title="SPORTLOKAL",PSJ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTM3U
@@ -26,6 +26,18 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/euro.png" group-title="SPORTLOKAL",EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+https://raw.githubusercontent.com/ghozitv/Playlist/main/EURO2024.m3u
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
