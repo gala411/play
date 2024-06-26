@@ -591,7 +591,7 @@ https://raw.githubusercontent.com/gala411/toettoet/main/moji5.m3u8
 https://raw.githubusercontent.com/gala411/toettoet/main/mojee.m3u8
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" group-title="SPORTLOKAL",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF : group-title="SPORTLOKAL" tvg-logo="https://raw.githubusercontent.com/gala411/toettoet/main/bein_id.png",Bein 1
