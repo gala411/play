@@ -7,16 +7,7 @@
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 -------------------------------------------------------------SPORTLOKAL by.mamamuda------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="SPORTLOKAL",INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cors-proxy.elfsight.com/http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1
-https://cors-proxy.elfsight.com/https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/psjtv.png" group-title="SPORTLOKAL",PSJ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTM3U
@@ -96,7 +87,7 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" group-title="SPORTLOKAL",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/gala411/toettoet/main/moji.m3u8
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
