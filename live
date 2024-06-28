@@ -56,12 +56,11 @@ https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 ======================================INDOSIAR============================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="🇮🇩 LOKAL ID 🇮🇩",09.INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",09.INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
-#EXTM3U
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 ====================================SCTV==============================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sctv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -136,6 +135,9 @@ https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|user-agent=okh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/Liputan6.png" group-title="🇮🇩 LOKAL ID 🇮🇩",22.Liputan 6
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 =======================================================================================
 
 //========================================================================
