@@ -60,7 +60,7 @@ https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",09.INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
+
 ====================================SCTV==============================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sctv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -138,6 +138,7 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 #EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
+
 =======================================================================================
 
 //========================================================================
