@@ -523,10 +523,6 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u
 
 -------------------------------------------------------------SPORTLOKAL by.mamamuda------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="SPORTLOKAL",INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://xtv.ooo:8080/65175086/13426218/350972.m3u8
-
 #EXTINF:-1 group-title="SPORTLOKAL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
@@ -674,3 +670,71 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+----------------------=========================================================
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20241.qa" group-title="LIVE EURO 2024",LIVE EURO 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1826
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20242.qa" group-title="LIVE EURO 2024",LIVE EURO 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1827
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" tvg-id="beINLIVE EURO 20243.qa" group-title="LIVE EURO 2024",LIVE EURO 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1828
+
+#EXTINF:-1 tvg-id="sonyten" tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" group-title="LIVE EURO 2024",LIVE EURO 6 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 tvg-id="sonyten" tvg-logo="https://m3u-editor.com/storage/channel-logos/12678c60-2a80-11ef-8a96-f7f288569beb/6873885/1185145586.png" group-title="LIVE EURO 2024",LIVE EURO 7 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", LIVE 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", LIVE 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 1 HD
+http://filex.tv:8080/ad007/002790/52083
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 2 HD
+http://filex.tv:8080/ad007/002790/52085
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 3 HD
+http://filex.tv:8080/ad007/002790/52086
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 1 HD
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13763
+
+#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SPORT TV
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/126254
+
+
+
+
+
+=============================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://budtv-ultra.com/posters/1713315679454.png" group-title="COPA AMERICA 2024",TV Max Canal 9
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13771
+
+#EXTINF:-1 tvg-id="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",TE Y C Sports 
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13763
+
+#EXTINF:-1 tvg-id="" tvg-name="Teletica (CR)(R)" tvg-logo="https://budtv-ultra.com/posters/1715047731266.png" group-title="COPA AMERICA 2024",Teletica 
+http://smartiptv.dnsco.xyz:8080/setiptv12mm1245/cxfKyna/13895
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11(HN)(R)" tvg-logo="https://budtv-ultra.com/posters/1711993939477.png" group-title="COPA AMERICA 2024",Canal 11
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD (CH)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314422417.png" group-title="COPA AMERICA 2024",CANAL 13 HD 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
