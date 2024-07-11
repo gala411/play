@@ -10,25 +10,14 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
 ------------------------------------ TRANS TV  -------------------------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/transtv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",02.TRANS TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/TRANSTV.png" group-title="🇮🇩 LOKAL ID 🇮🇩",02.TRANS TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 ===================================RCTI===============================================
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_otto/drm_vision.php
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="🇮🇩 LOKAL ID 🇮🇩",RCTI (MAC)
-https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTM3U
-#EXT-X-MEDIA-SEQUENCE:6770
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:9.160000,
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3519
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,7 +64,7 @@ https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3517
 ====================================SCTV==============================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sctv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SCTV.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
@@ -128,7 +117,7 @@ https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 =========================================TV Desa=========================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mytvdesa.png",18.TV Desa
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/TV%20Desa.jpg",18.TV Desa
 https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
 ========================================CNN Indonesia=========================================
 #EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cnn_indonesia.png",19.CNN Indonesia
@@ -155,11 +144,35 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 #EXT-X-TARGETDURATION:11
 #EXTINF:9.160000,
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
 =======================================================================================
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" group-title="🇮🇩 LOKAL HD 🇮🇩",Moji HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="🇮🇩 LOKAL HD 🇮🇩",Indosiar HD
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3517
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/trans7.png" group-title="🇮🇩 LOKAL HD 🇮🇩",Trans 7 HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3515
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/TRANSTV.png" group-title="Nasional",TransTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mnctv.png" group-title="🇮🇩 LOKAL HD 🇮🇩",MNC TV HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" group-title="🇮🇩 LOKAL HD 🇮🇩",RCTI HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3519
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/gtv.png" group-title="🇮🇩 LOKAL HD 🇮🇩",GTV HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3521
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="🇮🇩 LOKAL HD 🇮🇩",INews HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3522
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SCTV.png" group-title="🇮🇩 LOKAL HD 🇮🇩",SCTV HD 
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3518
 //========================================================================
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/HBO.png" group-title="🇮🇩HBO GROUP🇮🇩",HBO
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/31
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="🇮🇩HBO GROUP🇮🇩",HBO Family
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🇮🇩HBO GROUP🇮🇩",HBO Hits
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="🇮🇩HBO GROUP🇮🇩",HBO Singature
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/32
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="🇮🇩HBO GROUP🇮🇩",Cinemax
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/35
 
 
 ///////////////////////MOVIE by.mamamuda//////////////////////
