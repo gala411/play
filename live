@@ -146,22 +146,23 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
 =======================================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png" group-title="🇮🇩 LOKAL HD 🇮🇩",Moji HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
+https://raw.githubusercontent.com/gala411/sentak/main/moji
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="🇮🇩 LOKAL HD 🇮🇩",Indosiar HD
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3517
+https://raw.githubusercontent.com/gala411/sentak/main/indosiar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/trans7.png" group-title="🇮🇩 LOKAL HD 🇮🇩",Trans 7 HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3515
+https://raw.githubusercontent.com/gala411/sentak/main/Trans%207
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/TRANSTV.png" group-title="Nasional",TransTV HD
+https://raw.githubusercontent.com/gala411/sentak/main/trans
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mnctv.png" group-title="🇮🇩 LOKAL HD 🇮🇩",MNC TV HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3520
+https://raw.githubusercontent.com/gala411/sentak/main/mnctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" group-title="🇮🇩 LOKAL HD 🇮🇩",RCTI HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3519
+https://raw.githubusercontent.com/gala411/sentak/main/rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/gtv.png" group-title="🇮🇩 LOKAL HD 🇮🇩",GTV HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3521
+https://raw.githubusercontent.com/gala411/sentak/main/gtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="🇮🇩 LOKAL HD 🇮🇩",INews HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3522
+https://raw.githubusercontent.com/gala411/sentak/main/inews
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SCTV.png" group-title="🇮🇩 LOKAL HD 🇮🇩",SCTV HD 
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3518
+https://raw.githubusercontent.com/gala411/sentak/main/sctv
 //========================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/HBO.png" group-title="🇮🇩HBO GROUP🇮🇩",HBO
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/31
