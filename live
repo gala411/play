@@ -9,64 +9,71 @@
 https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
------------------------------------- TRANS TV  -------------------------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/TRANSTV.png" group-title="🇮🇩 LOKAL ID 🇮🇩",02.TRANS TV 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/trans7.png" group-title="🇮🇩 LOKAL ID 🇮🇩",01.TRANS 7 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+------------------------------------ TRANS TV  -------------------------------------------
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/TRANSTV.png" group-title="🇮🇩 LOKAL ID 🇮🇩",02.TRANS TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
 ===================================RCTI===============================================
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" group-title="🇮🇩 LOKAL ID 🇮🇩",RCTI HD
-https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rcti.png" group-title="🇮🇩 LOKAL ID 🇮🇩",RCTI HD
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti
 ===================================MNCTV===============================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/mnctv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",04.MNC TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=mnc
 ======================================GTV============================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/gtv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",05.GTV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=gtv
 ====================================NET TV==============================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/nettv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",06. NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 ====================================RTV==============================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/rtv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",07.RTV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch115.m3u8
 =======================================ANTV===========================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/antv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",08.ANTV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch108.m3u8
 ======================================INDOSIAR============================================
 
 #EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",09.INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-====================================SCTV==============================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SCTV.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png" group-title="🇮🇩 LOKAL ID 🇮🇩",09.INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://filex.tv:8080/gtr/gtr/302264
+====================================SCTV==============================================
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/SCTV.png" group-title="🇮🇩 LOKAL ID 🇮🇩",10.SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 -----------------------------------------TVRI -----------------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tvri.png" group-title="🇮🇩 LOKAL ID 🇮🇩",11.TVRI
@@ -77,42 +84,33 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+https://flv.intechmedia.net/live/ch113.m3u8
 =========================================METRO TV=========================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/metrotv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",13.METRO TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+https://flv.intechmedia.net/live/ch110.m3u8
 =========================================SINDO NEWS TV=========================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/sindo_news.png" group-title="🇮🇩 LOKAL ID 🇮🇩",14.SINDO NEWS 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
 =========================================KOMPAS TV=========================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/kompastv.png" group-title="🇮🇩 LOKAL ID 🇮🇩",15.KOMPAS TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch102.m3u8
 =========================================TV ONE=========================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tvone.png" group-title="🇮🇩 LOKAL ID 🇮🇩",16.TV ONE 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch109.m3u8
 =========================================INEWS=========================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/inews.png" group-title="🇮🇩 LOKAL ID 🇮🇩",17.iNEWS 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=inews
+
 =========================================TV Desa=========================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,7 +118,8 @@ https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
 ========================================CNN Indonesia=========================================
 #EXTINF:-1 group-title="🇮🇩 LOKAL ID 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cnn_indonesia.png",19.CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
+
 ========================================CNBC INDONESIA=========================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/cnbc_indonesia.png" group-title="🇮🇩 LOKAL ID 🇮🇩",20.CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
