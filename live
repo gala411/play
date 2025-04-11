@@ -279,12 +279,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.m
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/cnn_indonesia.png" group-title="National TV",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 ========================================================================================================
 <========================= HBO Group ===================================>
 
 
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png", HBO PH
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/HBO.png", HBO PH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
