@@ -532,7 +532,11 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTM3U8
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tvri_sports.png" group-title="🇮🇩 SPORT ID  🇮🇩",TVRI SPORT
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
