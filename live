@@ -171,88 +171,83 @@
  
 ######################################################################TV CHANNELS#############################################################################################################################################
 
-#EXTINF:-1 tvg-logo=" " group-title="🇮🇩 BETOK_TV ID  🇮🇩"  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/rcti.png",01.RCTI
-https://allcutv.rctiplus.id/rcti2023.m3u8
-##https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/rcti.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩",RCTI HD
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url=""https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 01.RCTI
+http://198.16.100.186:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 02. MNC TV
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9v9MWDJyTNnNeOTP4Dh-72.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 02. MNC TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 03. GTV
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-_W8ecdRUSHxYbxtdS7gSd.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 03. GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png", 04. Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png", 04. Indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTM3U8
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", INDOSIAR TV
+#EXTINF:-10.0 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", INDOSIAR TV
 #EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
 https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/sctv.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 05.SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-4KMZzWvWuJmtUXX_Pykft.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 05.SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-#EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png",07. Moji
+#EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3lRhg1mb5siWjZKSUUAMfSOrNBDTwaFSnr2JzzMERGvD.png",07. Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/transtv.png", 06.TRANSTV
+#EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-EALYMZlvZ0UkpKiRj079h.png", 06.TRANSTV
 https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/trans7.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩",09. Trans7 HD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__41YjYRYl1Rgg7w_Hjqds7.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩",09. Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/net.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 10. NET TV Auto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8Kivl2SNgnx8ScKbVapQev.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 10. NET TV Auto
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 11. ANTV
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8WU9jCdVnmlafq6fxtKhIP.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 11. ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 12. RTV
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__5KekXvtVqsPZknC4JAgkt.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 12. RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 13. Kompas TV HD
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9mo5Y9Ej8B1PbkVn2qUBu4.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 13. Kompas TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png", 14. Metro TV
-https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png", 15. TVOne
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9GLMwPPwqUugDAUiwa6-mm.png, 14. Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
+#EXTINF:-1 tvg-id="TvONE" tvg-name="Tvone" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_92MGjTjupGNOsPUiN2rLYF.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 15. TVOne 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 #EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png", 16. SindoNews
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png", 17. iNews
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-id="INEWS - [Channel 106].id" tvg-name="INEWS " tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8FUWejrZ49wRlp4xJQJfeI.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 17. iNews
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/IDX.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 18. IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
