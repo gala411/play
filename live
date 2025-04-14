@@ -229,7 +229,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9mo5Y9Ej8B1PbkVn2qUBu4.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 13. Kompas TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9GLMwPPwqUugDAUiwa6-mm.png, 14. Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9GLMwPPwqUugDAUiwa6-mm.png", 14. Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -264,7 +264,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/metro-globe-network.png", 20. Metro Globe Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/cnbc_indonesia.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 21. CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/cnbc_indonesia.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="🇮🇩 BETOK_TV ID  🇮🇩" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/BTV.png", 22. BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -286,9 +286,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/daaitv.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 27. DAAI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
-#EXTINF:0 tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/jowo_tv.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", 28. Jowo Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
+#EXTINF:-1 group-title="TRANSVISION" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/jowo_tv.png",JOWO Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
