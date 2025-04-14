@@ -171,7 +171,7 @@
  
 ######################################################################TV CHANNELS#############################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.pngg" group-title="🇮🇩 BETOK_TV ID  🇮🇩", RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/refs/heads/main/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="🇮🇩 BETOK_TV ID  🇮🇩", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
