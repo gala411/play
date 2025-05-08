@@ -492,14 +492,14 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=112&type=dash
+https://link.zozotv.xyz:443/live/usez37/zxy921/164.ts
 
 #EXTINF:-1 group-title="🇮🇩 SPORT ID  🇮🇩" tvg-id="Sportstars 2.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=113&type=dash
+https://link.zozotv.xyz:443/live/usez37/zxy921/165.ts
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="🇮🇩 SPORT ID  🇮🇩", SPORTSTARS 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -509,11 +509,10 @@ https://terabit.web.id/media.mpd?id=113&type=dash
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=115
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="🇮🇩 SPORT ID  🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="🇮🇩 SPORT ID  🇮🇩",Soccer Channel ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv.png" group-title="🇮🇩 SPORT ID  🇮🇩",SPOTV ᴴᴰ
