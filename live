@@ -221,7 +221,7 @@ http://202.147.193.244/live/eds/DAAITV/sa_dash/DAAITV.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/logoF1/refs/heads/main/idxx.png" group-title="Berita_National",IDX
 http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd
 ========================================================================================================================
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="Movies",HBO (PH)
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="- MOVIES -",HBO (PH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -229,7 +229,7 @@ http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="Movies",HBO Hits (PH)
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="- MOVIES -",HBO Hits (PH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -237,7 +237,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="Movies",HBO Family (PH)
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="- MOVIES -",HBO Family (PH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -245,7 +245,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="Movies",HBO Signature (PH)
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="- MOVIES -",HBO Signature (PH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -253,454 +253,95 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="Movies",Cinemax (PH)
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="- MOVIES -",Cinemax (PH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/indo.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="230" tvg-id="" tvg-name="BOO" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7bem1m7GPH-lvtxUAlPUbvg.png" group-title="- MOVIES -",BOO
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGV4iPDtkiw_m4TVGsHZgSMo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="236" tvg-id="" tvg-name="SHOWCASE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7I0mbUyVQ6HL_EV4NbYM8bdUewUYhwmVxsyPtaFvWtgE.png" group-title="- MOVIES -",SHOWCASE
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRdXesQll9WGmSBwpAAZDcY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="10885" tvg-id="" tvg-name="SONY PIX" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kiPnSVh6aKpRo4262W3BGmg.png" group-title="- MOVIES -",SONY PIX
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfYYYjFpvs__hJKa64wNhbto_tV0ToRWTWoJZ-Spf7bJ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="10591" tvg-id="" tvg-name="STAR MOVIES" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kGZ05wVVuV58ivTtG9Yo5SnnF-n0jMDvKGN8aJnimPZo.png" group-title="- MOVIES -",STAR MOVIES
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcHIMmtL__jRuzK8txfFWvBZAauIMskS7yIeJ-emmxIz
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="44" tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kyrqB-6fcA0Z9ZPlXTX-p9vPlRfko34hzJe89r7HH1lQ.png" group-title="- MOVIES -",BIOSKOP INDONESIA
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZCP-ZCmy5fLDGOlCv0PjhE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="45" tvg-id="" tvg-name="FLIK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k6fw8f0Za4movy4zu_WJ8DQ.png" group-title="- MOVIES -",FLIK
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTUFyJ6aR3Bp8Mqy0Ki6zxg
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="46" tvg-id="" tvg-name="IMC" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRTcyahOKBfMFF5l0TBNGJw.png" group-title="- MOVIES -",IMC
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGR4E668tvK7fa0YUqKCFQdg
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="47" tvg-id="" tvg-name="WARNER TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k8OTGodYo4e2xPWpI-JAu-A.png" group-title="- MOVIES -",WARNER TV
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcsxcVwWD_gjWHFBh7GVUmY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="CCM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4keKuJs4eiYs_fgOQHTUBPrQ.png" group-title="- MOVIES -",CCM
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZgBAJRZ8V0QAd_sLSOoWTk
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="49" tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kTx4o_i4zC4wNjbcz0PhxNwiPbApY6L4lwCbioqaM1lk.png" group-title="- MOVIES -",CELESTIAL MOVIES
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGeH5eoc8ij1tXt3n-NFzovc
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="50" tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4km_30cn2SgwJ3RN6k4cOilZrsfq1BWon6s3x4DIL_XDw.png" group-title="- MOVIES -",ZEE BIOSKOP
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWo6xUIpZLcjQKqerN3It28
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="51" tvg-id="" tvg-name="ROCK ACTION" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kCTE_IlSYMccuHzH1zkfci3J3wqZJpimq1kIPudEnpMw.png" group-title="- MOVIES -",ROCK ACTION
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGaMRl-l5qpZknzY1yNu9cuo
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="52" tvg-id="" tvg-name="AXN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k-6rdr1eitDthczRNhRz7Vg.png" group-title="- MOVIES -",AXN
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGS5N-CFTqLWFVgm8V3nByak
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="53" tvg-id="" tvg-name="KIX" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kaQMIOJiQeAGeaPg7aTlKAQ.png" group-title="- MOVIES -",KIX
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRPfW66ddChhXJJt8ubJIFQ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="54" tvg-id="" tvg-name="THRILL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kneXD7ZoHvEuDPIlWpvSPjw.png" group-title="- MOVIES -",THRILL
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbo0kh6TV0keYSpr9VSDsAI
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="55" tvg-id="" tvg-name="TvN MOVIE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kBWx1KPs-2oKaK1M5KtgAvp8qVbmOMx9UqnmSS9gPvkQ.png" group-title="- MOVIES -",TvN MOVIE
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWv9nf3wu1uE4tapkuIO7Dw
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="56" tvg-id="" tvg-name="GALAXY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kvGoUH_n1YHOblitHp7BUTg.png" group-title="- MOVIES -",GALAXY
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZnHH7ypaeLtm29JnbB-eSM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="57" tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJ8shQktCfr0jXq_Hip1pZxupR0nYpfYRO38dZJnjY3s.png" group-title="- MOVIES -",GALAXY PREMIUM
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZcmLBRkIWcNGoh7DKFLyiM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="58" tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kPMsSHRerqVtHAoQucJWkins6c2Ba1nADsV_PChNFtpU.png" group-title="- MOVIES -",CINEMA WORLD
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbV0dUpsDJkBuNkzz2LTrV4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="59" tvg-id="" tvg-name="HITS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kRn5VJQvXffCesmIQwqmvEQ.png" group-title="- MOVIES -",HITS
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZJZdDOE08onSkHoJwBXAGw
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="60" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kclcDK6mLz-2-2XRzRXg0ML6qTWUAiDPj5r1tObuOLGQ.png" group-title="- MOVIES -",HITS MOVIES
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGSMmcsXyrSE37kUY0nGqZQk
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="61" tvg-id="" tvg-name="ORIGINALS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHphp_oXbEzjPf0PKXP9RuaJ-d-_dKrcYwtaeasyxtbQ.png" group-title="- MOVIES -",ORIGINALS
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGaSo-reG9Bin87je71hyaCs
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="62" tvg-id="" tvg-name="CINEEDGE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k2mzN40rs6Cq_XRrheBNhlw.png" group-title="- MOVIES -",CINEEDGE
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdKUPW7HHHqyGPkidr_suU4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="63" tvg-id="" tvg-name="SUPERRIX" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kQ7jGcu4yGcX1rsuPJA3ydA.png" group-title="- MOVIES -",SUPERRIX
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGex6QTuI00t6xk-j0tIS5Bg
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="64" tvg-id="" tvg-name="UNIQUES" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kT728eG3TCpONSCGXibiVFg.png" group-title="- MOVIES -",UNIQUES
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZlYa2-5OA3g1DO8-2rVm7w
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="65" tvg-id="" tvg-name="MY CINEMA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4ktOPkdRX_VXV4Vek6tV--Bg.png" group-title="- MOVIES -",MY CINEMA
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTvgtaYUgGyLs5zPYxlKtmw
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="66" tvg-id="" tvg-name="MY CINEMA ASIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJAQ4wItwOnXOLFg_qsVq3ZTm-IKyhaYqcHzdezzSl-c.png" group-title="- MOVIES -",MY CINEMA ASIA
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGctxl42vjHemZf-sk8GRCJ8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 xui-id="67" tvg-id="" tvg-name="MY FAMILY CHANNEL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kIzAfVvSGqPlf_5bXS7XVwed_n2_U3JQQUWZtoW6wtkY.png" group-title="- MOVIES -",MY FAMILY CHANNEL
 http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXFMAey1TsSag6Bz1pp7lhE
 =================================================================================
-#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6ED2K_fY5xOcTIa7ppp7fcZs.png" group-title="- KNOWLEDGE -",DISCOVERY CHANNEL
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGU1zZYPK7_aeAaGvlfVxir4
-#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5A-g-8nth0gjLpbCwoLK6qmN0_mPNwoZV06JNGLNxljo.png" group-title="- KNOWLEDGE -",NATIONAL GEOGRAPHIC
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGegcFpVYY59XlRzQ735sbSc
-#EXTINF:-1 xui-id="76" tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5BCHTmzkkFBn7p-A8upsyDAQYkQWQJl2kGXppTgPzHQk.png" group-title="- KNOWLEDGE -",NAT GEO WILD
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVE5ILPzN1IGErVw-fS8RC0
-#EXTINF:-1 xui-id="77" tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5eBDl8YVIlCopeBbMWZeVr7LA7zzlKUSb9aSVGp6MOBs.png" group-title="- KNOWLEDGE -",ANIMAL PLANET
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGW-eg0jcIHkKluvzkiJuvms
-#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="BBC EARTH" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5Mgte0dIVv6s_LxUOwKeKpIRX3PyqeS3W9Ntj_vq1Gvc.png" group-title="- KNOWLEDGE -",BBC EARTH
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZX359DObOZfMEIXzaFqw2w
-#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5od3BbELuzoqG6vrnGA7bqas9yJBBX4GmWXLXgYd8s7A.png" group-title="- KNOWLEDGE -",LOVE NATURE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYBGclw9pwGWYEuLIbNFeZY
-#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="DISCOVERY ASIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6EIs3hzTP9cLH1Mf_ujOHDuY.png" group-title="- KNOWLEDGE -",DISCOVERY ASIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGX7QssG_9sCpNJPqRCtvzIg
-#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5P1NA-NW_gcCGmci_ZuA8ECCr-0s4L9lzVLZk7hq9zbs.png" group-title="- KNOWLEDGE -",CGTN DOCUMENTARY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVBNna8xbxW1WCZhZHzlwOo
-#EXTINF:-1 xui-id="10641" tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5Tt-HigO6h8Hd1NZWIiCKP7Gd16OV6iier3mlA0iDUAo.png" group-title="- KNOWLEDGE -",GLOBAL TREKKER
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfuYEkdw9rc4BklGnA_hl_j1lBf4bfDpj8K5HNrCwoJF
-#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="WILD PLANET" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5PxfjVrZ1q3LyCGrZFilzRE4tD77lv-xnddazmufykJA.png" group-title="- KNOWLEDGE -",WILD PLANET
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRl32s2JtJuodCs8vFRU3DQ
-#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="ADVENTURE EARTH" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5_hNj9oEraNuDu0DHbz2yicKlKS22C2q79hWQ5qF74RM.png" group-title="- KNOWLEDGE -",ADVENTURE EARTH
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRa4KGhx0awXR0jIIQ_JADY
-#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="INWILD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5j1mQqJPDkO6Jc0Fg3D2Ob7m5DruP6QjSxQgVYjcMg6Y.png" group-title="- KNOWLEDGE -",INWILD
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQGDStBpWliUmIVv_u8RJF8
-#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="WILD EARTH" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5twHKLFpgjpMYtTJ74RHt8rkCNErBoE9kOy9ZXyz-1HA.png" group-title="- KNOWLEDGE -",WILD EARTH
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdGWgvP-v13POCRqg2bqOOM
-#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="CLARITY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5gQulieZkiVK5f72ifGcMETMahGeNsDnwpP4JDG4-BOY.png" group-title="- KNOWLEDGE -",CLARITY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVLseV9FUne9jQ3RBzuHTU8
-#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aomTPSbMToZD-b3ERf9VLG0771OEJDGh8ztgro-5PACo.png" group-title="- ENTERTAINMENT -",DUNIA LAIN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGd6ZvP_oOUZVEuyNUC51O7I
-#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a3XeEgd7amfyiGNpDAdI5xKuEEVhuVz905hRj9XUr5UA.png" group-title="- ENTERTAINMENT -",CHINESE DRAMA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGclUZoLE0hdzI6ee0HLguLk
-#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="K PLUS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a1CRvBYhqz6csL4aaTKvd5a_R0F18pJT1Jtw8Z_qmel4.png" group-title="- ENTERTAINMENT -",K PLUS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGb43VUP-uwLFsr9MyOVn-Wc
-#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="ONE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aXMGqGualN-MkTfiKHK366B-0p5ybGVkoMoaMUbEny2c.png" group-title="- ENTERTAINMENT -",ONE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfMDeVMsSN12qymVOOm-Hpo
-#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8alMEwkd-dvOOE0dH6eYYHelqbMShXpWJcPl0R5bDsFJw.png" group-title="- ENTERTAINMENT -",ROCK ENTERTAINMENT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdk5MzjJi7qICANPQkcYuRA
-#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="TVN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUKkBrokUWt9scOcJ9ownYPR-9LRKiH0IvNX2bcO26n8.png" group-title="- ENTERTAINMENT -",TVN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWIwcv2S57QdGeKCAEKFbgM
-#EXTINF:-1 xui-id="10116" tvg-id="" tvg-name="CITRA BIOSKOP" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZUlG0CkHB9aqSTQDHodzWKc.png" group-title="- ENTERTAINMENT -",CITRA BIOSKOP
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWnQGxpZkPJQ_hJXiVEZmtRvJPvq5U1yDyRLt_wMo2kI
-#EXTINF:-1 xui-id="10117" tvg-id="" tvg-name="CITRA DRAMA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZVKkRAEm5stV19E_dEcM2yA.png" group-title="- ENTERTAINMENT -",CITRA DRAMA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWnQGxpZkPJQ_hJXiVEZmtSmVnXqEvehNVyvmeAiQxcA
-#EXTINF:-1 xui-id="10118" tvg-id="" tvg-name="CITRA ENTERTAINMENT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZTWPkZz1fz2Br5ocevizpW0.png" group-title="- ENTERTAINMENT -",CITRA ENTERTAINMENT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWnQGxpZkPJQ_hJXiVEZmtRSJ6d83SQoPdociPUt4bZA
-#EXTINF:-1 xui-id="10119" tvg-id="" tvg-name="CITRA DANGDUT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZWnqhsRXsHzq1Q4biivM6sA.png" group-title="- ENTERTAINMENT -",CITRA DANGDUT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWnQGxpZkPJQ_hJXiVEZmtTd8qw7ldwQEeTjYn0v9VEU
-#EXTINF:-1 xui-id="10120" tvg-id="" tvg-name="CITRA MUSLIM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aUoIf-BePUC4vXQBnRyfvZe_Uyy5XhT1ZKXYRxJHMZj0.png" group-title="- ENTERTAINMENT -",CITRA MUSLIM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGce1QtjLoZme19YDdwVX7U7S19EK-_Fs0aqkUktuiocd
-#EXTINF:-1 xui-id="97" tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aLVlgiVkX3d27CgBzPMArdYaftwM-vYEHQqVrjG-q2GU.png" group-title="- ENTERTAINMENT -",TV5 MONDE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGaZtWkZmyNAFrUOEOhHHxUQ
-#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aMsN5RLTVR-J_WjXwmlLoGpuyU7ZetglI3UvK1jFH-Cs.png" group-title="- ENTERTAINMENT -",ABC AUSTRALIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVNFnFHAB6KcmSRoFlhXDsw
-#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="AMERICA'S GOT TALENT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a17wbWca58si2b4RxQhLQjln_bUMF7uYu7iGJzBsZ9Tw.png" group-title="- ENTERTAINMENT -",AMERICA'S GOT TALENT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZjqNPBctOS7fstzYURqNSQ
-#EXTINF:-1 xui-id="100" tvg-id="" tvg-name="AMERICAN IDOL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8arRHjt7paPZe0UyCn9p_YiR6rLhca6VoKv445C_69_dQ.png" group-title="- ENTERTAINMENT -",AMERICAN IDOL
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGU3AaqhbjGxzPBZXMywi5ds
-#EXTINF:-1 xui-id="101" tvg-id="" tvg-name="SURVIVOR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aHhUyR8jOQlh967812iD3vWm7w9pdJxLIbAeFbxwv5M0.png" group-title="- ENTERTAINMENT -",SURVIVOR
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGb6fCM0rD5kvUT26WKkIXj4
-#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="FEAR FACTOR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8adt8CmTgtysf70PokwzvmX_e2V1869rjtcmhnyigORVE.png" group-title="- ENTERTAINMENT -",FEAR FACTOR
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGe5dntY0lLoe_6rgNjQYyEM
-#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="JUST FOR LAUGHS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxMlB5eIiJTi60YNNgX_1Z0Q.png" group-title="- ENTERTAINMENT -",JUST FOR LAUGHS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZpLSdC3ywEGncp5AQuTdlY
-#EXTINF:-1 xui-id="105" tvg-id="" tvg-name="NHK WORLD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aKF73TfSbXdFhynmw7gDcJebYcGwNXcr7r9fCjZ-FlUM.png" group-title="- ENTERTAINMENT -",NHK WORLD
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGetMNn8go-pIuEo8IeNT058
-#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8adWogq0-iNnwKs1BV8RcCG6Uh9QZiocjS6R5Nkfezub8.png" group-title="- ENTERTAINMENT -",NHK WORLD PREMIUM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGSkQzjmmE97Gq5Qvv6AWlZ8
-#EXTINF:-1 xui-id="107" tvg-id="" tvg-name="KBS WORLD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aIo4a7bzrwmSigG5v6_z9WYSlTt8qnv4o6OP8evMZduM.png" group-title="- ENTERTAINMENT -",KBS WORLD
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTllS68KagUmANUNWkf-xnE
-#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="CGTN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8aLX4TDgxoT3FXGfGdgBQ7D6sl35bxH5ZS6fzkJ0o47qM.png" group-title="- ENTERTAINMENT -",CGTN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcA5t3UqmX5juEKrUjuvC1U
-#EXTINF:-1 xui-id="109" tvg-id="" tvg-name="ARIRANG" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbB_J4vv4OiBkgbDghbif8a96DUe85Tw6mM12Nr1K1byanPPi8ZaMB2EUFqARSkc2E.png" group-title="- ENTERTAINMENT -",ARIRANG
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcfEjJVkfCfsLDqr_bhqeFY
-#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="MENTARI TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="- KIDS -",MENTARI TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTHOjN-UPYFqwNPh0A-1ytw
-#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="HOREE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc5fC5oCgHWlcT1tuGnGaYrg.png" group-title="- KIDS -",HOREE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbQiSuINvYvDb6qcNM7_kcY
-#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCvm8mQjb9cXh13Do_iYDm6IZ6LHPgrRHXiPN9b1IDk4.png" group-title="- KIDS -",ASTRO CERIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGX-9DKmCT_P5q2GEwvQHduc
-#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="DREAMWORKS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcbrmfIh1efIx20YCvDMYM2iQscS3LuRzZeZ2KK4ay3Pc.png" group-title="- KIDS -",DREAMWORKS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTmlMoyteTgTI5HIXcoERIM
-#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcjo48p6lhkgV6EnAvedgyjB3WXSJHoJ88wcHc5XI3SNw.png" group-title="- KIDS -",CARTOON NETWORK
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQ-RedJej9OO4I6rhvqRIfM
-#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="MY KIDZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDco0p3dw1pdIlQKZ1Ns7isFw.png" group-title="- KIDS -",MY KIDZ
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbHg5tBrWCbL29fHKiI3TAE
-#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="NICK JR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcUvvtz58HyUwxERN7eFcmDQ.png" group-title="- KIDS -",NICK JR
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUUtoBWm6FM9ts9AizLMK-A
-#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCceBV0rxKSqBhdJOP8PmALD2wcXAIdlk2hKOgYxAiTM.png" group-title="- KIDS -",NICKELODEON
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY2H6a2Dz6FAKXapQsE736E
-#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcBEYFDUc0MW4xBcNUn_IEDNI_J417S4gpL8bBZ-vyNDY.png" group-title="- KIDS -",CINEMACHI KIDS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTaSSJ9_NrBKHkJti6Ewj0c
-#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="ANIPLUS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcNmI4Q-R2d7yXPiGs26TrDw.png" group-title="- KIDS -",ANIPLUS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY_iOptggMh-84COyzZyI-c
-#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="ANIMAX" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc62c7ZnAEbx50cxHHpQtRGg.png" group-title="- KIDS -",ANIMAX
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcy2VpDBEWk5nuPV8iaU9Ks
-#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="HGTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f1GgfAvs-lvmmnh8U586tsg.png" group-title="- LIFESTYLE -",HGTV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGawT7ULqdfJIAYTJY7QQotY
-#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="TLC" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1feNrmsPrGfFcjjMuXKxIYiA.png" group-title="- LIFESTYLE -",TLC
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQQCB2SFoV08ns3esVGNgIw
-#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="AFN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fvsed_ygW5EYyZyS16YlZCQ.png" group-title="- LIFESTYLE -",AFN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbIDT5ZyDKoRBduh6ReVMl4
-#EXTINF:-1 xui-id="131" tvg-id="" tvg-name="LIFETIME" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffU5U3g6Xx4j_5loetX8jWZgSj9ldCZa9h4JWYSc2rnk.png" group-title="- LIFESTYLE -",LIFETIME
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZxGyDijThNZWwkCeqWqWJg
-#EXTINF:-1 xui-id="10646" tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f7-5hu8l-qx0luycM7XPXGcrki1nrPCTP_Q3R7BIQE5c.png" group-title="- LIFESTYLE -",FOOD NETWORK
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfuYEkdw9rc4BklGnA_hl_hWi45wSBijMTpHNict-0Oy
-#EXTINF:-1 xui-id="10640" tvg-id="" tvg-name="BBC LIFESTYLE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fTjOknwoxsbhpuVIDe4ZhuL4VPNg7l5dcrOuEF5pHHN0.png" group-title="- LIFESTYLE -",BBC LIFESTYLE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfuYEkdw9rc4BklGnA_hl_hgCvM6BbMYNHuYEJrAWoRr
-#EXTINF:-1 xui-id="132" tvg-id="" tvg-name="FASHION TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffY3lhJ_dOF9iXr61LJZ1v-ub8yHuumlf-ayhcibjV5I.png" group-title="- LIFESTYLE -",FASHION TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQJOBKH6AqD-q8rEFGwKQvM
-#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6bMKUWTDlWBL98SwEXdUcLS15OKQq6CzEzO7hiZdq1I.png" group-title="- LIFESTYLE -",FASHION TV MIDNIGHT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYhIuIiz9d0KCykcgLA4Ib4
-#EXTINF:-1 xui-id="10111" tvg-id="" tvg-name="TV5 MONDE STYLE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fjj_C3L2APd_peRkl51Ds-CkcHNEeit6xSfV5BvyTKYI.png" group-title="- LIFESTYLE -",TV5 MONDE STYLE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWnQGxpZkPJQ_hJXiVEZmtQVKNNtKqRq4B8L9odjsBnI
-#EXTINF:-1 xui-id="134" tvg-id="" tvg-name="HOMEFUL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fmz4QNyGguLS4rXQ3EIWYqFZPTvfxdr-Tv_4Q2-PIjbU.png" group-title="- LIFESTYLE -",HOMEFUL
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVoHGrRM0xGOqMn8Icap5Ro
-#EXTINF:-1 xui-id="136" tvg-id="" tvg-name="AT HOME" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fsVZ7_Zg_DyCLQ6bRW4AGwNP04XI9F7wQ0JauauOAbug.png" group-title="- LIFESTYLE -",AT HOME
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYj4HzmSMcSbQdsXIKYAjVk
-#EXTINF:-1 xui-id="138" tvg-id="" tvg-name="ARCHITECTURAL DIGEST" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fhrOQpXS5pOJ1k2ynGHOgLnfu5OEZHbFv4yyU2wLO1NE.png" group-title="- LIFESTYLE -",ARCHITECTURAL DIGEST
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUlO5nxXI4GtR0UpbsSXYRI
-#EXTINF:-1 xui-id="139" tvg-id="" tvg-name="THIS OLD HOUSE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fT0RyBT2RnD9u8rV6EoK4hzvKKe2skM_LdNETYkWU9EA.png" group-title="- LIFESTYLE -",THIS OLD HOUSE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGeMfm0Zq8lI99dtu05exqV4
-#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="NBC LX HOME" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fdXC95iCNZwbhyF-Bpi61j4vvYuQY0B9xAVvwxKXU5qQ.png" group-title="- LIFESTYLE -",NBC LX HOME
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWBIigP7ZK2O4V_2rFKhv5s
-#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="THE DESIGN NETWORK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f7d4kofn4xcLBzGyGRqbPALx9YOxXFsTWFaV2ZPkC8cQ.png" group-title="- LIFESTYLE -",THE DESIGN NETWORK
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWxtxAqF9doa2C-QdxuEUO8
-#EXTINF:-1 xui-id="142" tvg-id="" tvg-name="HISTORY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCNnJIz0h6WQiz_GMbzXqvJkcWikvrL5HEhaCBDzdTVRw.png" group-title="- HISTORY -",HISTORY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcEWFXexDf2PWBwEv4jPwqc
-#EXTINF:-1 xui-id="143" tvg-id="" tvg-name="HISTORY & WARFARE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCtCUOQlpmuxmLXJOc-SXAveYej6mrw2uE_-twUCVsN2M.png" group-title="- HISTORY -",HISTORY & WARFARE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXIoHdetHkM3hkvY7OsgTLc
-#EXTINF:-1 xui-id="144" tvg-id="" tvg-name="MILITARY HEROES" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCh3FwdfwBY3N9TwSl0-ClQG_9p3Arbg5-0YL6ct_IEhU.png" group-title="- HISTORY -",MILITARY HEROES
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfhTszU3skN_3GNIb8-4dK8
-#EXTINF:-1 xui-id="145" tvg-id="" tvg-name="HISTORY 365" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdC9ExnSRfyjq9p4-hmEPHUnBXygLqAB_jn1yAS9hEGSgg.png" group-title="- HISTORY -",HISTORY 365
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdx2HztkNOYOsWmZBVjEXuk
-#EXTINF:-1 xui-id="146" tvg-id="" tvg-name="MODERN MARVELS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdC9rOofVOc1hqFz25XwGyeIXB9FG8a79L4hHyFlWKRWqI.png" group-title="- HISTORY -",MODERN MARVELS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGX3YC5GScr43PewjnRLMKOM
-#EXTINF:-1 xui-id="147" tvg-id="" tvg-name="HISTORIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f7yaJh0UGkTmva9BUIpGnmqVr1v_fszJ535J_R4vRkPY.png" group-title="- HISTORY -",HISTORIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZHAWYQ4bcbmsVPrjyr7iwE
-#EXTINF:-1 xui-id="148" tvg-id="" tvg-name="MAGELLAN TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCtg15-_iB4Ii60pxsxWX47qORxGOu3K9L6Xu1fRLnTgI.png" group-title="- HISTORY -",MAGELLAN TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGV79quj3BcEG6wtB0D8-D_o
-#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="WEATHER SPY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvY5Azxix7EZrz4nRuimLTdCd46u8SuWP2ooObfKqmK-KuvSWCTFfoTdeO7TA9h9pcw.png" group-title="- HISTORY -",WEATHER SPY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUr6QwSTMVz6pv7Vr8dALG4
-#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTMcBeFPmy0wH7cKMbhlIXveuHMltCnYMH5B9bVLKQvhY.png" group-title="- CRIME & FACTUAL -",CRIME INVESTIGATION
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfgCwbP7K9CIaATWwq2ab68
-#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="CRIME 24/7" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTUca3ja_kwweqki4GwOM5IA.png" group-title="- CRIME & FACTUAL -",CRIME 24/7
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTp31Ga27Oawrc6BRg4XRQM
-#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="I SURVIVED" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTPNHzn2GqAED8ZHquMRsg7ADvqo-GpeC6Cym82SoYDfo.png" group-title="- CRIME & FACTUAL -",I SURVIVED
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGf_ol9LsfQySlkryXHHHYs4
-#EXTINF:-1 xui-id="160" tvg-id="" tvg-name="EVIL KILLERS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTBrJ70e5bhc5mS-sfoBfHvcmk7T5MpzRNiw7GnO8ls_Q.png" group-title="- CRIME & FACTUAL -",EVIL KILLERS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGa-AR3cfqkDB6xRextmTnvU
-#EXTINF:-1 xui-id="161" tvg-id="" tvg-name="60 DAYS IN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTQM95-i4fKbJ7BME8Nodpuw.png" group-title="- CRIME & FACTUAL -",60 DAYS IN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTVjjrL5tfQi_yxYIM0fBIM
-#EXTINF:-1 xui-id="162" tvg-id="" tvg-name="WITNESS TO JUSTICE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTDTDe8lri0pgvg3mQ4zPESg.png" group-title="- CRIME & FACTUAL -",WITNESS TO JUSTICE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGR0THtW8jKMli0Bbr3KXrfE
-#EXTINF:-1 xui-id="163" tvg-id="" tvg-name="DATELINE 24/7" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTASK5Jrfpx-NXJQoSbbWqi_kdP8Lkas5QLglBrzb-cjI.png" group-title="- CRIME & FACTUAL -",DATELINE 24/7
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQn0jTh7g8Henf9HWDnIEEs
-#EXTINF:-1 xui-id="164" tvg-id="" tvg-name="CRIMES CULTS KILLERS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOIXxP0T8j7OHbP_z98zbTfzzOw7t_JBka8GV73NVEvg1daCMO6IR3mjO-MPrKB6g.png" group-title="- CRIME & FACTUAL -",CRIMES CULTS KILLERS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQO4QwRpxExPO2cAcipDOsU
-#EXTINF:-1 xui-id="10209" tvg-id="" tvg-name="DORAEMON" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwKjIMya0Azpmz_o10mjdNQ.png" group-title="- KIDS 24/7 -",DORAEMON
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWWs65c0zSlv5ncfzsoTBwJvaNyN9PxZCXsaoSMtlM3a
-#EXTINF:-1 xui-id="10210" tvg-id="" tvg-name="UPIN IPIN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcrMv5ootj3Crjg7UGWmC1aw.png" group-title="- KIDS 24/7 -",UPIN IPIN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUWUigmx1WVQckZsj2x2_SjRaCGFMr5KF07dz-3heHVv
-#EXTINF:-1 xui-id="10232" tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDclCR6ttVW6Av5X_yybepdJg.png" group-title="- KIDS 24/7 -",MASHA & BEAR
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi9lWfZUb61ijWCI5VAQ-O-e
-#EXTINF:-1 xui-id="10233" tvg-id="" tvg-name="LARVA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcHoXgA0mgreIZGmh_tLw-Qw.png" group-title="- KIDS 24/7 -",LARVA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi-AjGxOKfiRaai768rNsRWA
-#EXTINF:-1 xui-id="10234" tvg-id="" tvg-name="TAYO" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc6WkRTMHkmATcpMm_hZHrBw.png" group-title="- KIDS 24/7 -",TAYO
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi9dnd6ucoXkXt-CgT8a-1Jr
-#EXTINF:-1 xui-id="10235" tvg-id="" tvg-name="BERNARD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcn2E0wyblQfi18Okj2cENtQ.png" group-title="- KIDS 24/7 -",BERNARD
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi8nbwvnn96Bmh9rYDuY-RyX
-#EXTINF:-1 xui-id="10236" tvg-id="" tvg-name="THOMAS & FRIEND" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcuGduivrhHgcWq2xOlbMP_5TxJ-3AsziqtPwCqY0hUcU.png" group-title="- KIDS 24/7 -",THOMAS & FRIEND
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi_HpAfep7KuTThjhjNaKVo0
-#EXTINF:-1 xui-id="10237" tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc3JZOqpP8nvoRLUIvuFuZRQ.png" group-title="- KIDS 24/7 -",TOM & JERRY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi9-PrO3OZ7b8WyOQqGAMDXe
-#EXTINF:-1 xui-id="10238" tvg-id="" tvg-name="SHAUN THE SHEEP" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcks1UyO_rVvT3PVBYuCgqD8DXclR3W2UL-djIfC8T7TY.png" group-title="- KIDS 24/7 -",SHAUN THE SHEEP
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi_8Lxe3lv7B93tQE70xCxQo
-#EXTINF:-1 xui-id="10239" tvg-id="" tvg-name="TELETUBBIES" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcpP346Nw83x1OgRegbRXRwHussHWBNkgvGAl971ui3KY.png" group-title="- KIDS 24/7 -",TELETUBBIES
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGXUyghprlUsbESjSKLJqQi_-zlGtGzuWRgoZgG76EbJC
-#EXTINF:-1 xui-id="10888" tvg-id="" tvg-name="SPIDER MAN" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCKgglsEg4nomUiejPJ4c8xTJMXIkz9mMPYZ1SNZywpNuU5zrT0pDIskoz54NIorul_-cESvh9qnP7ShuEQrnUVQ.png" group-title="- BOX OFFICE 24/7 -",SPIDER MAN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfYYYjFpvs__hJKa64wNhbtPE5TqrXK5W0mz6oOQD1vz
-#EXTINF:-1 xui-id="10889" tvg-id="" tvg-name="IP MAN" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCGZqT_kMjsfVKs9jF3OQdq5M5qrDic3DFh3h7HHd_gjjg_m_lgUM3qlLsXgl9c1iR.png" group-title="- BOX OFFICE 24/7 -",IP MAN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfYYYjFpvs__hJKa64wNhbt6dHMkzNAQA9b0T5fLWZJB
-#EXTINF:-1 xui-id="10890" tvg-id="" tvg-name="JURASSIC PARK" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCEWjFOVugtXW0iTBRKWyfwJz6J_l4B2QwSMcWQ9iT4V6zxcwhETS45fSNj4O-K6PRtkdWTIbxnO_TtkjMbIf6PA.png" group-title="- BOX OFFICE 24/7 -",JURASSIC PARK
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWtfqP9OQo-RcycnwmvzDf6f
-#EXTINF:-1 xui-id="10891" tvg-id="" tvg-name="FAST AND THE FURIOUS" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCZHWP_UqrytOuk9rnT45bg8GdxsGrCCiMuEQ291urpFici6gzrr1rS4Sj25k0mMZpnHh9I8gc-9xtpomWe5jRWA.png" group-title="- BOX OFFICE 24/7 -",FAST AND THE FURIOUS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWvDiGGjE8woWPyIdNC-gIJG
-#EXTINF:-1 xui-id="10892" tvg-id="" tvg-name="THE MUMMY" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCSQCzasdnIApRfEgc9efBKzq5BBoC5AhY4ZIOAE9Fo0lI_twuEBqiXsw8szFWw5HVoDM24UaHeumqtHRzFsR0vA.png" group-title="- BOX OFFICE 24/7 -",THE MUMMY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWtZWB61MIXrb31Ufz91VS7J
-#EXTINF:-1 xui-id="10893" tvg-id="" tvg-name="JUMANJI" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCAxFcN5JalOoEI2SYE8VhwZBqRC0xFOd4QaZZuh6iU6LjmfiiHk6JkzUPzOoDj4iA.png" group-title="- BOX OFFICE 24/7 -",JUMANJI
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWscbYyiE3_0lR9USguA0RBW
-#EXTINF:-1 xui-id="10894" tvg-id="" tvg-name="THE NUN" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCFDK9w_BBRVbLVuVFxiivSyWTl5oK_LVO2i9TyHIBHhlDcsj2PnK7oxDhBBhhgIRD.png" group-title="- BOX OFFICE 24/7 -",THE NUN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWvi19SuQcT1bjHMIpMHvW4x
-#EXTINF:-1 xui-id="10895" tvg-id="" tvg-name="INDIANA JONES" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xC-YN2cy3_UmsMtn-POxwEzOP2my3eUeW6yuXOd4PcUEZyeqcak7pm7wUBBvqfftnJl9gnqaZMjPhTfttpaF-m-g.png" group-title="- BOX OFFICE 24/7 -",INDIANA JONES
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWs7-TWDvIjtcl1LNXfvAN3b
-#EXTINF:-1 xui-id="10896" tvg-id="" tvg-name="THE TERMINATOR" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCS9Q29UkMmjwV3H-SFgPqVUKw231Za8SQFaZiDLeLtyi4tKuMNG4HFfwE53TeYxWWOx_14ZLeru73E_1LJlp4IA.png" group-title="- BOX OFFICE 24/7 -",THE TERMINATOR
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWvp3dao9dkvVSwckCq1uPCX
-#EXTINF:-1 xui-id="10897" tvg-id="" tvg-name="RESIDENT EVIL" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCzDdHoyesjto4KbxQkOYH6GEdz5SY8YAorbhVKCbZREEUwdG5q0zzODidpr59HJeyWWimVTwmNctoUZ1-LViSaA.png" group-title="- BOX OFFICE 24/7 -",RESIDENT EVIL
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWvz1FnXfs1kE9anC2DfKAIP
-#EXTINF:-1 xui-id="10898" tvg-id="" tvg-name="RAMBO" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCUqJsj4uGttQjoQVeyod1QFqZesoTjHgIOgE6k6yGWs_F9ibpDASGlM3Txb8SL57Y.png" group-title="- BOX OFFICE 24/7 -",RAMBO
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWtrYQH7wLJXkyMMwhOWltpU
-#EXTINF:-1 xui-id="10899" tvg-id="" tvg-name="THE CONJURING" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xC-bmDRaC0B7-MigoKuJ3bmCwjiUZALN3GX_RqOUO923Xm45oA9xhWjY8gAPBVGK7HiClfa0KRoQIer0TtGV5lSA.png" group-title="- BOX OFFICE 24/7 -",THE CONJURING
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGY7uzxMnpJGdyor_zamIjWuhRU0wVgbR-XVvadTV2Ehi
-#EXTINF:-1 xui-id="10900" tvg-id="" tvg-name="HARRY POTTER" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa4xSfkO9mnu04Cu7iqVg_xCVhTfEKyIRY-cdyAM0eKRcosBQWDLkP-oFVk5fz0HE6Ui5G-6wer7bTPEU2qnPrhl84rrjZtfbj_2-_0IzhgoAQ.png" group-title="- BOX OFFICE 24/7 -",HARRY POTTER
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTqL9f82VuMb6GDFKJAL0FcMUXN-0d6TE9rvrzGSm_n5
-#EXTINF:-1 xui-id="10223" tvg-id="" tvg-name="MIC TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zux2Kdo1X2Vx3an4Bz-eSTdbBFzs1qxRQNuxUg6dnLwfw.png" group-title="- MUSIC -",MIC TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTpNzogtYx9ohZyv2dNG07PljIOf318dtATQoC0oiuVK
-#EXTINF:-1 xui-id="165" tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuRLHYcLX0crDnZ1d-dLuT-Q.png" group-title="- MUSIC -",MTV LIVE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGT1YuiawnUSvw1m82Qptuh8
-#EXTINF:-1 xui-id="10903" tvg-id="" tvg-name="MTV 2000" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zu_fIUpfcpWExY9k2Lcvy9HA.png" group-title="- MUSIC -",MTV 2000
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTqL9f82VuMb6GDFKJAL0FdCUNR3qp58Q0s4B8Y5AijC
-#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="MTV 90s" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zu5A3Xn9Tp_xI8CLo5vRIyOA.png" group-title="- MUSIC -",MTV 90s
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfSv7YHMcBDYpnf-yceQKXA
-#EXTINF:-1 xui-id="10904" tvg-id="" tvg-name="MTV 80s" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zu_MYqu6NibeeFl93OrzhMaw.png" group-title="- MUSIC -",MTV 80s
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTqL9f82VuMb6GDFKJAL0Fe33mCFH7p5nln5CwbYtrmA
-#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuLyXQ8-IhXLS_LgmT6vrnrcUns1X-CVoH-xgwep5QJTc.png" group-title="- MUSIC -",MTV CLASSIC
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUlZAlwLnp2gfndhQUIjfT4
-#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="MTV Unplugged" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuDS7IeGwoIPe-fGyX0wUa-LKtbVQ1N3APEMk5xxaJZOU.png" group-title="- MUSIC -",MTV Unplugged
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGV7HugMpU523VfVj8-k91eA
-#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="XITE Hits" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3Mgaf7gcGPbpmFe2BaOoOLwuEL3SuOm8bU5OvA2tUAma3oCudhMarbhjRplGGpHutDna4.png" group-title="- MUSIC -",XITE Hits
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYJeiXlj5_DNTer_QsvBJKY
-#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="XITE 90s Throwback" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3Mgaf2zPqHSGQrqhDP0flDkx_ZU3z2sntUaJOSuTKR_NSx8CFg53EBmgchxH2QkYmEC0v.png" group-title="- MUSIC -",XITE 90s Throwback
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGS1A2Ne3HiJmXUH228qyYPc
-#EXTINF:-1 xui-id="168" tvg-id="" tvg-name="XITE 80s Flashback" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3Mgafvmo-SyMYJ83WHY8G2Ip2XhqSpekHy7-KnqGLgKFfz5OFJr2ahULCdY-ea_VWzx_g.png" group-title="- MUSIC -",XITE 80s Flashback
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGS52bzYdgJVnNda0k6fDK4E
-#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="Vevo 2010s" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafX-_yBNyQohGvzIkB6xtUn35jazc8tnrN4XzaAeT7XBh2heqL0MnltsPTj62iI1F-.png" group-title="- MUSIC -",Vevo 2010s
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQwpW47qHbmn_gfQazFXCys
-#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="Vevo 2K" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafzkKdM4omGFHqyOjcLCP9bRSH6mfgEIyN7Wttq5xnrRUCiI8ofKzHuPz2bi4eJ6oW.png" group-title="- MUSIC -",Vevo 2K
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTciO8cB3Aeqah1OulX7otg
-#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="Vevo '90s" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgaffgCBzxAFj_q844TR4lgrkXS3LmUVcuImzdWY3lBZFAFrzwItjqTcBNgDnxyZfZYp.png" group-title="- MUSIC -",Vevo '90s
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUQxKm2hIOUj-6X0LFkPw9s
-#EXTINF:-1 xui-id="175" tvg-id="" tvg-name="Vevo '80s" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3Mgaf2h5Dx8UZMqIRP_YrDqZu5QckecgELS1Db3wI5qgNGuHvTgKI-w9mC89NuHkd63Sy.png" group-title="- MUSIC -",Vevo '80s
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWeAJn_Mofk_2lDvNxzmxYM
-#EXTINF:-1 xui-id="176" tvg-id="" tvg-name="Vevo '70s" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafzFlbzgVCri1utrnKBYMVX_aeJ_8EPOUq2YTkOGSA30wILnO_hb_pLJS9tCpQ9jxb.png" group-title="- MUSIC -",Vevo '70s
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZUkkj3302E7I1tFm19guqw
-#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="Vevo Pop" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafmdkgSkJy3ElY3jK0wA6apppkrWNMbphNggwEKsaHlU_5IWl5tDzAF-e1FMYremng.png" group-title="- MUSIC -",Vevo Pop
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbf27ai4oijKlOLuiQmyto4
-#EXTINF:-1 xui-id="178" tvg-id="" tvg-name="Vevo Retro Rock" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafdvQvP-IuxfESH0vnNbB55udHW1wleEynMgo6QuTPd0r2HEQWScx7ASRfhYfMX2m32oPqesKQZ6-u5JchDDD83g.png" group-title="- MUSIC -",Vevo Retro Rock
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZEvo8TEHp3Lh0NFAI6A40w
-#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="Vevo Country" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafugXe34r02_LECidlZoLvmELleTMJwxiQp-42a2Qqzmp6_sL4bvES82OtYj2qlYg8j2qQOV8C1NrjuGWvz40P2Q.png" group-title="- MUSIC -",Vevo Country
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGeDECUd_kQmYGG7U0WyeJ-E
-#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="Vevo R&B" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafqCPa2M4JVLxdYF-13FryJAGx0ix0Gyu4GBJZHfbyS3Oj01UBHnthmbG1MEqUlmVE.png" group-title="- MUSIC -",Vevo R&B
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTuh-CTrz4p_jyzquPAvzcA
-#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="Vevo Hip-Hop" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafeBJTmX7_ZV65tuGVi_XCfiVZQECEfIFAM9GHgu2oPsWeUb8v-jSQXMH5ha1pZ3udAFUsVOSyTpQcMVLRD-8ESA.png" group-title="- MUSIC -",Vevo Hip-Hop
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQHgQ--c1aPbF4-nsyivrjg
-#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="Vevo Latino" tvg-logo="http://home-tv.online:80/images/6454JHbcJJ4fNHOztr9-XbmQQsc_72rMbynJbbrhg5-pFEAA7P-1GGQ8kOnvgndnKSv2SEq2wBf0gn48WsrC5e2xw78WnDzNQpWiQU1iBa48OAuO61xuesRHUEm3MgafACZY8DQbS0tXpqLKrisirg9k7PWk9HPjcQG29rS-fxnrHzYmmyCWA7x3AmQ2NyP6a13Otexpv2kC9_dMzWrdAg.png" group-title="- MUSIC -",Vevo Latino
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTIATwU2j_FsshbO3GDcvnI
-#EXTINF:-1 xui-id="186" tvg-id="" tvg-name="TRACE URBAN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZugTnl-RaqTrRqpWnb2jgxM7Z52N8xR9p8RJfwxluLus0.png" group-title="- MUSIC -",TRACE URBAN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGSlWBPD2yQNlbNfDX6Gx5CQ
-#EXTINF:-1 xui-id="187" tvg-id="" tvg-name="TRACE UK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuRbInDlW7dTYxpQmOe4LXxw.png" group-title="- MUSIC -",TRACE UK
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGU8wsMIkqPs9Abg70ravv1E
-#EXTINF:-1 xui-id="10798" tvg-id="" tvg-name="TRACE LATINA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuQQi5xRHjWueyhpb61p8asvNMEIzCyAyWF3Gytpgerjk.png" group-title="- MUSIC -",TRACE LATINA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGT2ZDoV-mscLTOuZVTqzGx8JxM7ooazotk2IbDfH8EOT
-#EXTINF:-1 xui-id="10799" tvg-id="" tvg-name="TRACE BRAZIL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuugrATpEfvJlP4-4eIidv-SjYs-tmlAywh8pz6YnjLj8.png" group-title="- MUSIC -",TRACE BRAZIL
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGT2ZDoV-mscLTOuZVTqzGx9jdKfsBjFiG_QyQkiBBtjq
-#EXTINF:-1 xui-id="188" tvg-id="" tvg-name="GENTARA FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zug588Z0f_hSREnj_xtUN7sAzxBv6HZQYPmqpvPGtDOVA.png" group-title="- RADIO -",GENTARA FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGd1YgKVW8zdC7XTrv-F5Bn8
-#EXTINF:-1 xui-id="189" tvg-id="" tvg-name="MUSTANG FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuQSkBZ0ncOA-MqXxgVwu4j9fI1GCzXVnsV7qB1VPgF8I.png" group-title="- RADIO -",MUSTANG FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGf9xmRrFI4sUw4TJBZTVrto
-#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="HOT FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuRbsEYTeFozVJi5t2n65Y5Q.png" group-title="- RADIO -",HOT FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUqNSUVDQLj0-CACXMkRsZQ
-#EXTINF:-1 xui-id="191" tvg-id="" tvg-name="KIS FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZujiaFQQfCdL_0gY34m6g0Aw.png" group-title="- RADIO -",KIS FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbo5WuUNbaIeJwSYfpFsBKY
-#EXTINF:-1 xui-id="192" tvg-id="" tvg-name="GEN FM JKT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuhOBMKepQK_WhdUQtymL3viFhRSF9xMr8tcWaQxfLmYs.png" group-title="- RADIO -",GEN FM JKT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZOkksQbWJTGwx6A1y4H3MU
-#EXTINF:-1 xui-id="195" tvg-id="" tvg-name="GEN FM SBY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zunzuu6OBxbRn4ZoLwxsn1mJEPvWWWc1D8MsfaL4ZOsxA.png" group-title="- RADIO -",GEN FM SBY
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdOXoyJvMb-ZcdmRh9JMuDQ
-#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="MOST RADIO" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuLEPpbecPstb-cYy-2gSurg.png" group-title="- RADIO -",MOST RADIO
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGc9dk2y9n97Zm3n-rFY_4uw
-#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="JAK FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuPktBwREWR0wPjWbaId0LZQ.png" group-title="- RADIO -",JAK FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGaCSfkjMmdMQpeoFc0YZ0aU
-#EXTINF:-1 xui-id="199" tvg-id="" tvg-name="CLASSY FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZubVN5OiSqlPAt9DRYNNwkbBYgHPNB4wwcn30Gf4dkXBc.png" group-title="- RADIO -",CLASSY FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYfuynTofOgZ2xAQYt0zwRM
-#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="SUSHI FM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242Zuw53N6z22eLCJ02fRblnBAQ.png" group-title="- RADIO -",SUSHI FM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfFDI4ZKaXkq7oHY0mokZB0
-#EXTINF:-1 xui-id="10726" tvg-id="" tvg-name="TEMBANG LAWAS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYe_cLBvxP5X-wgXVE242ZuhQJ4jjz77Pq7L1LzU3eBKCbKOdp7H0h2SFV-tkkUIik.png" group-title="- RADIO -",TEMBANG LAWAS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTtw5APVeSmZDDvdHlABcJP-eksEyHHzQBTRlDbQctde
-#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="RODJA TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxz104XTZtkSTOt6VHGcPigw.png" group-title="- RELIGI -",RODJA TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdQgc8wiCuEZD3iRbrt491w
-#EXTINF:-1 xui-id="206" tvg-id="" tvg-name="MAKKAH TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxVewC58LL5EmtJc9q3praFKqA0QE0OfxHTFP8zMHSZUQ.png" group-title="- RELIGI -",MAKKAH TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRrq6PiQ82StZY8H1vnvP5A
-#EXTINF:-1 xui-id="10115" tvg-id="" tvg-name="SAUDI SUNNAH" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxNtj117xvDXRx1mq-FdY9sE1V-tFDaWsAwnIR7g45U-0.png" group-title="- RELIGI -",SAUDI SUNNAH
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWnQGxpZkPJQ_hJXiVEZmtT1DTwZqqtyGlj3-1eq006l
-#EXTINF:-1 xui-id="207" tvg-id="" tvg-name="IQRAA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxUrbht-ebdCWq_s28HLnAIA.png" group-title="- RELIGI -",IQRAA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGcRa14apH6lu5XtiL2uK-UE
-#EXTINF:-1 xui-id="208" tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxUQ2oz-PqdfG1jR2FzL7SxQ.png" group-title="- RELIGI -",MUHAMMADIYAH TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGf_UepPx4imlLqn5O_rcK30
-#EXTINF:-1 xui-id="10848" tvg-id="" tvg-name="TV9" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxSkzwR0efYe1Zvl7KhcYMAw.png" group-title="- RELIGI -",TV9
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYCLtOMytdFlnmAfa5ylyeOwKkVhWEjOslq1D6g5OtpU
-#EXTINF:-1 xui-id="10849" tvg-id="" tvg-name="MQTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxeBjxVtQTVAZTTxGleobfKw.png" group-title="- RELIGI -",MQTV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYCLtOMytdFlnmAfa5ylyeOe2jvML1jwtK0udHEKuMXY
-#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="REFORMED 21" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxCRf6WPOPDQ9BWGAmdZ_2VlhYijF8zLKqoG9xlm904Nw.png" group-title="- RELIGI -",REFORMED 21
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYIGhG0HX2iqwDkHCJMHHvk
-#EXTINF:-1 xui-id="210" tvg-id="" tvg-name="LIFE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxf9ml0gGZd9hIUMMxT_NhqQ.png" group-title="- RELIGI -",LIFE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUwkwZOl-90pJU6GFgucEqQ
-#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="EWTN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYHH3zpqLWX8I0taGqdYbNxbTM4jovRloe7CGkvAuh0Cg.png" group-title="- RELIGI -",EWTN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZj967KEKIAKRQGJb8UiFwc
-#EXTINF:-1 xui-id="212" tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMO7jzhKvP0wOHEBoE0tMFovVUKrCcCKjp14qPflZCjZQ.png" group-title="- TV DAERAH -",JOWO CHANNEL
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUzuuYdiwZT2-FduKxZp0yo
-#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="SAKTI TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMx8-82w5tddOiN9b3gL5oInOgWxhog8KwX3T22p0dhDw.png" group-title="- TV DAERAH -",SAKTI TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGZtzNtEM3carANVH0PcT0Qs
-#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="JTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMA0A-sNFyixKXWXd4kzx9fg.png" group-title="- TV DAERAH -",JTV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVwrxmFl8MzOxUst7k69TfU
-#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="GARUDA TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMnLsokFnMcOsPsr3vsA3pxgFnb0nZQ3dfPSb61k6B98E.png" group-title="- TV DAERAH -",GARUDA TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQxgBll9qZW7k3w-bOaUTow
-#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="BALI TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMUECWVt3Iw4fmK9O1dvHMaKO3twysPlRZZAI7_LW0SjU.png" group-title="- TV DAERAH -",BALI TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRYgHb4kZUPdqbOo-sZYSS8
-#EXTINF:-1 xui-id="218" tvg-id="" tvg-name="BANDUNGTV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdM7MCLuOFOt4iidLEoenIXf18AeLmQ1TH_lg7Qcsz9knU.png" group-title="- TV DAERAH -",BANDUNGTV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGTSPT2Kq5CnVkL-afRLf7uY
-#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="TABALONG TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMapDvChELM4ACIa7DzRLNE-URRMEFxYWC1rm3c14M09w.png" group-title="- TV DAERAH -",TABALONG TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYBJIV3VOZt0zE29TvRLWwU
-#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="JITV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMvTE5Ezu2yYlvSbthSb0PDQ.png" group-title="- TV DAERAH -",JITV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGU-oGivYS27hmM3Bdcj2E_4
-#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="BTV BALIKPAPAN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdM6_qzG6Q-m4thfAQFGblMRQ.png" group-title="- TV DAERAH -",BTV BALIKPAPAN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGd6bK3NSn4R9RIQwfbWwgw4
-#EXTINF:-1 xui-id="229" tvg-id="" tvg-name="INSPIRA TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMlAxrjhoTrOXFU7bLiUjjHRqmX3zJ8deumSWiRllA1SQ.png" group-title="- TV DAERAH -",INSPIRA TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYPXItV9T6ioqb1bx0I0xE4
-#EXTINF:-1 xui-id="232" tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX79CKI_NmJcr81irSyIyLmDg.png" group-title="- MALAYSIA -",ASTRO OASIS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGbvr3ji0fsSY9lvjbciCRDE
-#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX741G93MXdh4Ol_CqtExUyig.png" group-title="- MALAYSIA -",ASTRO RANIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGeedew4OpKbac3QK8K6r8Yo
-#EXTINF:-1 xui-id="234" tvg-id="" tvg-name="ASTRO AURA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7R_JTP8BnNhntAmq8V67dLw.png" group-title="- MALAYSIA -",ASTRO AURA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfCtwnzs_NUYMwH8m09ai0I
-#EXTINF:-1 xui-id="10581" tvg-id="" tvg-name="ASTRO CITRA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7NIS6Pc2Dd90xr_oDYXWgoQ.png" group-title="- MALAYSIA -",ASTRO CITRA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGd5eDkuPPnpKIjrnCVqvoMat8ahBUvmzW6DnK2wvhREK
-#EXTINF:-1 xui-id="10582" tvg-id="" tvg-name="ASTRO RIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7sPvOYHBmW78EncqSwcupbQ.png" group-title="- MALAYSIA -",ASTRO RIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGd5eDkuPPnpKIjrnCVqvoMYnHVlDsQ8JX2TRh0Tt8u12
-#EXTINF:-1 xui-id="10583" tvg-id="" tvg-name="ASTRO PRIMA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7mcwcvUjgIuGUE8H9e7TphA.png" group-title="- MALAYSIA -",ASTRO PRIMA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGd5eDkuPPnpKIjrnCVqvoMZIyDzd0-2uzaY7JtaReRi7
-#EXTINF:-1 xui-id="237" tvg-id="" tvg-name="TV 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zg2cfptYFZRe6sQfTK_xVA.png" group-title="- MALAYSIA -",TV 1
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGegriYf29VpQYDdkExNYCcE
-#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="TV 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zzZHMDckmnU_kS5eMWkTzA.png" group-title="- MALAYSIA -",TV 2
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGWe1fu4jehHWyIsm1aBuD2A
-#EXTINF:-1 xui-id="239" tvg-id="" tvg-name="TV 3" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7m7NE5Bz5B0z6q9O7MCHN-Q.png" group-title="- MALAYSIA -",TV 3
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGch6z5Mxo0XLVlFn1GxM9lw
-#EXTINF:-1 xui-id="3772" tvg-id="" tvg-name="DRAMA HEBAT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7Jd21tvfzB0GUq5P5t2XTQ5F0KjwOvJmCgIbHT1SGBWc.png" group-title="- MALAYSIA -",DRAMA HEBAT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQP77AX0kbsD7HUc3m8fYAMomo13uRMX4k-mQEr75gQ3
-#EXTINF:-1 xui-id="3773" tvg-id="" tvg-name="DRAMA HOTPOT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7_x8vfeMnuf25-2Zsqaa8d0ppzJ7uvWi9nNX-28Z3H4c.png" group-title="- MALAYSIA -",DRAMA HOTPOT
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGX5n6vdwnZ1AfCYdq3kqcLZfg0rh0GVQRBrpAu3Mj7SB
-#EXTINF:-1 xui-id="3774" tvg-id="" tvg-name="FILM MANTAP" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7U0TaepNg-TX1073hWEKZlkOt5QvigEXWyrG74gq1vFU.png" group-title="- MALAYSIA -",FILM MANTAP
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRjY6gzv1Xr_UI42TRYN-eDeN8YI2n--VHBhjZJ-Ew8B
-#EXTINF:-1 xui-id="240" tvg-id="TV6" tvg-name="TV 6" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7s_0_dxIT84CxsrXL_N6ejQ.png" group-title="- MALAYSIA -",TV 6
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfDyF8U9LmHIlgG7MgCWbLQ
-#EXTINF:-1 xui-id="241" tvg-id="" tvg-name="TV 8" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX785Na4n279mqQFY2wSVuvdQ.png" group-title="- MALAYSIA -",TV 8
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfFf2UBq7pFDfLBBiUKFhl4
-#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="TV 9" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7GNnYeQwd45b1UDtp33K9ew.png" group-title="- MALAYSIA -",TV 9
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfyCFTIaxRCvPqunZEhFTMU
-#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="RTB Aneka" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7xMQdnFCEKuEnRKMXCxWE8513M2SU3A1c_qCBg3bMYEg.png" group-title="- MALAYSIA -",RTB Aneka
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGSUEJg1Laq4IXlSPsHO5pSA
-#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX78W4Cy61MEQzOxJVvzGZZ0SgPGAwvop3qbEWiFX-BkNI.png" group-title="- MALAYSIA -",RTB Sukmaindera
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGYHG0pfQnw-XSxunjdmWJr8
-#EXTINF:-1 xui-id="245" tvg-id="" tvg-name="RTB GO LIVE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX72KjQtlvt49XLtRFQF_fK8w.png" group-title="- MALAYSIA -",RTB GO LIVE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGVYDReBwg8AGeknMn3OhG3E
-#EXTINF:-1 xui-id="247" tvg-id="" tvg-name="CH 5" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-touruyfl1M9Ous9Phwc-B02wlg.png" group-title="- SINGAPORE -",CH 5
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGdxpguSN2c44LSLFV2ju8M0
-#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="CH 8" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tourBZlXFR-ll6bnOs3CWmSsmw.png" group-title="- SINGAPORE -",CH 8
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGRo4NcGWFjkULIxU0EdgwRE
-#EXTINF:-1 xui-id="249" tvg-id="" tvg-name="CH U" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tourh0jbaWrLqL0MRjwTUqX5WQ.png" group-title="- SINGAPORE -",CH U
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQj_LCFBaWSLMcDDHXU4Qds
-#EXTINF:-1 xui-id="250" tvg-id="" tvg-name="SURIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tourFrKW_zo_lNbNbBuAnnX_WMkY3X8ZEY8YppY30eNKmvs.png" group-title="- SINGAPORE -",SURIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGSxcSsE7K0CHF2KSgr2ACzc
-#EXTINF:-1 xui-id="251" tvg-id="" tvg-name="VASANTHAM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZ4E20LVHAU-tGIZSK-tournnEsMjgmTxfzP-na3CVJtdlXnO_JW1_uIbmpOo1u-pU.png" group-title="- SINGAPORE -",VASANTHAM
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUtGJ2imoJz6wbB0E9554Ys
-#EXTINF:-1 xui-id="10218" tvg-id="" tvg-name="IQIYI" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxYH6vx9fE-sWYQlUhV1r1FQ.png" group-title="- CHINA -",IQIYI
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUWUigmx1WVQckZsj2x2_SgFaHgPZkZe08XpdnUVTPL1
-#EXTINF:-1 xui-id="10176" tvg-id="" tvg-name="HUNAN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxL-_K3cSXUB4JOxvPkfCZeA.png" group-title="- CHINA -",HUNAN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUUe7x6tqhxlVzFE_EVFOmBqQWqUxabGpAsgAdsObcfA
-#EXTINF:-1 xui-id="10177" tvg-id="" tvg-name="ANHUI" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxqkgBnykMcrWCO89978E2WA.png" group-title="- CHINA -",ANHUI
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUUe7x6tqhxlVzFE_EVFOmAywaB9CxhovJOVxadCpxrz
-#EXTINF:-1 xui-id="10178" tvg-id="" tvg-name="DRAGON TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxlYGiN5cjgEnDnFWKw6Iywg.png" group-title="- CHINA -",DRAGON TV
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUUe7x6tqhxlVzFE_EVFOmC5Tay6Lt3d0IMZqsrLUQyW
-#EXTINF:-1 xui-id="10179" tvg-id="" tvg-name="JIANGSU" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxNBjkxbnitgsr5yakAMoE9w.png" group-title="- CHINA -",JIANGSU
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUUe7x6tqhxlVzFE_EVFOmAxLVzAoWvUAMg1H1Fv1mEb
-#EXTINF:-1 xui-id="10180" tvg-id="" tvg-name="ZHEJIANG" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxGmvWosW2XwPj5gAJ3ymEkg.png" group-title="- CHINA -",ZHEJIANG
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQzaIra4GKQGGXLQjv7nZGRj0emSh-aXlEJ6p5ynnADV
-#EXTINF:-1 xui-id="10181" tvg-id="" tvg-name="SHENZHEN" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxIGWZzDM_x1e92eN2xeWU_A.png" group-title="- CHINA -",SHENZHEN
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQzaIra4GKQGGXLQjv7nZGQJO2Dq9EpwsXwU0P3UEp1o
-#EXTINF:-1 xui-id="10182" tvg-id="" tvg-name="CCTV 4" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82Rx15dPSK-hMJeUka83_CquyQ.png" group-title="- CHINA -",CCTV 4
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQzaIra4GKQGGXLQjv7nZGShFZRGVCqvkBnM_jMax34N
-#EXTINF:-1 xui-id="10882" tvg-id="" tvg-name="CTI ASIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxhOXn48yn_a42MjtZyh9krw.png" group-title="- CHINA -",CTI ASIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGfYYYjFpvs__hJKa64wNhbuiprV8MtQxd5GJ-5dGl8bB
-#EXTINF:-1 xui-id="10183" tvg-id="" tvg-name="TVB XHINGHE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82Rx1oivYUNVtvUI1EQlv_MEMFDMCvoJ9V_UQNejzhbClbQ.png" group-title="- CHINA -",TVB XHINGHE
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQzaIra4GKQGGXLQjv7nZGQQHzuo57Zz-A8V9q-cvayj
-#EXTINF:-1 xui-id="10219" tvg-id="" tvg-name="TVB CLASSIC" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxdvWs788z_k-xAoo6FHWpIs2BSHe2c0FS1wz6MS3FNu8.png" group-title="- CHINA -",TVB CLASSIC
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGUWUigmx1WVQckZsj2x2_Sgqf_CzaXTFr016qxXxMVil
-#EXTINF:-1 xui-id="10184" tvg-id="" tvg-name="TVBS ASIA" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxcM_RFxPmdANVs_Chttpp1NQw4TP0-rIpiHVc3ycurz4.png" group-title="- CHINA -",TVBS ASIA
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQzaIra4GKQGGXLQjv7nZGRCKlN8jr94gmREGwrw3sfS
-#EXTINF:-1 xui-id="10185" tvg-id="" tvg-name="TVBS NEWS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYFCKh7WY6pCIVKSkoe82RxNYi5DvcHWlLL6P9EZQ_6xtICPgL-_Nt959n8zeIwZEw.png" group-title="- CHINA -",TVBS NEWS
-http://home-tv.online:80/play/JprKIjsdAu05aE7RPb3fGQzaIra4GKQGGXLQjv7nZGQ_bz6JmomiVv7SRaAcfWpE
+
